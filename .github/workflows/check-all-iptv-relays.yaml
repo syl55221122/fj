@@ -1,126 +1,47 @@
-name: Check All IPTV Relay Nodes from Quanbu2.txt
+name: Daily Update Guangxi IPTV Sources
 
 on:
   schedule:
-    - cron: '0 3 * * *'             # UTC 3:00 ≈ 北京时间 11:00
-  workflow_dispatch:                # 支持手动触发
-
-permissions:
-  contents: write
+    - cron: '30 0 * * *'           # 每天 UTC 00:30 运行（北京时间约 08:30）
+  workflow_dispatch:               # 允许手动触发（推荐先测试用）
 
 jobs:
-  test-relays:
+  scan-and-generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
-      - name: Install dependencies
+      - name: Install required packages
         run: |
           python -m pip install --upgrade pip
-          pip install requests aiohttp tenacity
+          pip install requests
 
-      - name: Extract all IP:port / domain:port lines
-        run: |
-          # 提取看起来像 IP:端口 或 域名:端口 的行，去重
-          grep -E '^([0-9]{1,3}\.){3}[0-9]{1,3}:[0-9]+$' Quanbu2.txt | sort -u > nodes-ip.txt || true
-          grep -E '^[-_.a-zA-Z0-9]+[.][a-zA-Z]+:[0-9]+$' Quanbu2.txt | sort -u > nodes-domain.txt || true
-          cat nodes-ip.txt nodes-domain.txt 2>/dev/null | sort -u > all-nodes.txt
-          echo "Extracted $(wc -l < all-nodes.txt) candidate nodes"
+      - name: Run the udpxy speed test script
+        run: python guangxi_udpxy_test.py
+        # 注意：请确保脚本文件名是 guangxi_udpxy_test.py
+        # 如果文件名不同，请改成你的实际文件名，例如 python main.py
 
-      - name: Test all nodes concurrently
-        env:
-          # ------------------ 你最关键的修改点在这里 ------------------
-          TEST_PATH: "udp/237.2.1.59:1234"      # ← 改成你实际想测的组播组
-          # 常用备选示例：
-          # TEST_PATH: "udp/239.77.0.77:8000"     # 央视1套常见组播
-          # TEST_PATH: "udp/239.1.1.1:1234"
-          # TEST_PATH: "udp/239.1.2.3:8000"
-          TIMEOUT_SEC: 10
-          MAX_CONCURRENT: 50
-          MIN_CONTENT_BYTES: 800
-        run: |
-          python3 - << 'PYEOF'
-          import asyncio
-          import aiohttp
-          from aiohttp import ClientTimeout
-          from pathlib import Path
-          from datetime import datetime
-          import os
-
-          async def test_node(session, node):
-              url = f"http://{node}/{os.getenv('TEST_PATH')}"
-              try:
-                  async with session.get(url, timeout=ClientTimeout(total=int(os.getenv('TIMEOUT_SEC')))) as r:
-                      if r.status not in (200, 206):
-                          return node, False, r.status, 0
-                      chunk = await r.content.read(int(os.getenv('MIN_CONTENT_BYTES', 800)) + 100)
-                      size = len(chunk)
-                      if size >= int(os.getenv('MIN_CONTENT_BYTES', 800)):
-                          return node, True, r.status, size
-                      return node, False, r.status, size
-              except Exception:
-                  return node, False, 0, 0
-
-          async def main():
-              nodes = Path("all-nodes.txt").read_text().splitlines()
-              nodes = [n.strip() for n in nodes if n.strip()]
-
-              print(f"Testing {len(nodes)} nodes with path /{os.getenv('TEST_PATH')} ...")
-
-              live = []
-              connector = aiohttp.TCPConnector(limit=int(os.getenv('MAX_CONCURRENT', 50)))
-              timeout = ClientTimeout(total=15, connect=6, sock_connect=6)
-
-              async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
-                  tasks = [test_node(session, node) for node in nodes]
-                  for i, fut in enumerate(asyncio.as_completed(tasks), 1):
-                      node, ok, status, size = await fut
-                      mark = "LIVE" if ok else "dead"
-                      print(f"[{i:4d}/{len(nodes)}] {mark} {node:24}  status={status:3}  bytes={size:5}")
-                      if ok:
-                          live.append(node)
-
-              if live:
-                  today = datetime.now().strftime("%Y%m%d")
-                  latest_file = "live-nodes-latest.txt"
-                  dated_file  = f"live-nodes-{today}.txt"
-
-                  Path(latest_file).write_text("\n".join(sorted(live)) + "\n")
-                  Path(dated_file).write_text("\n".join(sorted(live)) + "\n")
-
-                  print(f"\nFound {len(live)} live nodes")
-                  print(f"Saved to {latest_file} and {dated_file}")
-              else:
-                  print("\nNo live nodes found this run.")
-
-          asyncio.run(main())
-          PYEOF
-
-      - name: Commit results only if changed
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add live-nodes-*.txt
-          if git diff --staged --quiet; then
-            echo "No changes → no commit"
-          else
-            git commit -m "Update live IPTV relay nodes ($(date +%Y-%m-%d))"
-            git push
-          fi
-
-      - name: Upload latest live nodes as artifact
+      - name: Upload generated txt as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: live-iptv-relays
-          path: live-nodes-*.txt
-          if-no-files-found: warn
-          retention-days: 10
+          name: guangxi-available-sources
+          path: 广西_可用直播源.txt
+          if-no-files-found: warn          # 如果脚本没生成文件（比如没活源），也继续运行不报错
+
+      # 可选：如果想把结果 commit 回仓库（每天更新同一个文件）
+      # 先在仓库 Settings → Actions → General → Workflow permissions 选 "Read and write permissions"
+      # 然后取消下面注释
+       - name: Commit and push updated txt (optional)
+         run: |
+           git config --global user.name "GitHub Actions Bot"
+           git config --global user.email "actions@github.com"
+           git add 广西_可用直播源.txt
+           git commit -m "Daily update: Guangxi IPTV sources $(date '+%Y-%m-%d')" || echo "No changes to commit"
+           git push
