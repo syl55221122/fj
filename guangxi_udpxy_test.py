@@ -4,7 +4,7 @@ import concurrent.futures
 from urllib.parse import urljoin, urlparse
 
 # ====================== 配置区 ======================
-UDPPXY_LIST_URL = "https://raw.githubusercontent.com/syl55221122/fj/refs/heads/main/liveip.txt"
+UDPPXY_LIST_URL = "https://raw.githubusercontent.com/syl55221122/fj/refs/heads/main/1.txt"
 CHANNEL_FILE_URL = "https://raw.githubusercontent.com/panybbib/tvs/default/url/url_广西.txt"  # 推荐换成这个广西专用列表
 
 OUTPUT_FILE = "广西_可用直播源.txt"
