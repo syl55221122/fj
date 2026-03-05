@@ -3,7 +3,7 @@ name: Daily Update Guangxi IPTV Sources
 on:
   schedule:
     - cron: '30 0 * * *'           # 每天 UTC 00:30 运行（北京时间约 08:30）
-  workflow_dispatch:               # 允许手动触发（推荐先测试用）
+  workflow_dispatch:               # 支持手动触发测试
 
 jobs:
   scan-and-generate:
@@ -25,23 +25,22 @@ jobs:
 
       - name: Run the udpxy speed test script
         run: python guangxi_udpxy_test.py
-        # 注意：请确保脚本文件名是 guangxi_udpxy_test.py
-        # 如果文件名不同，请改成你的实际文件名，例如 python main.py
+        # 如果你的脚本文件名不是 guangxi_udpxy_test.py，请改成实际文件名，例如 python main.py
 
       - name: Upload generated txt as artifact
         uses: actions/upload-artifact@v4
         with:
           name: guangxi-available-sources
           path: 广西_可用直播源.txt
-          if-no-files-found: warn          # 如果脚本没生成文件（比如没活源），也继续运行不报错
+          if-no-files-found: warn
 
-      # 可选：如果想把结果 commit 回仓库（每天更新同一个文件）
-      # 先在仓库 Settings → Actions → General → Workflow permissions 选 "Read and write permissions"
-      # 然后取消下面注释
-       - name: Commit and push updated txt (optional)
-         run: |
-           git config --global user.name "GitHub Actions Bot"
-           git config --global user.email "actions@github.com"
-           git add 广西_可用直播源.txt
-           git commit -m "Daily update: Guangxi IPTV sources $(date '+%Y-%m-%d')" || echo "No changes to commit"
-           git push
+      # 可选：自动把结果提交回仓库（需要先设置权限）
+      # 去仓库 Settings → Actions → General → Workflow permissions → 勾选 "Read and write permissions"
+      # 然后去掉下面 4 行前面的 # 注释
+      # - name: Commit and push updated txt (optional)
+      #   run: |
+      #     git config --global user.name "GitHub Actions Bot"
+      #     git config --global user.email "actions@github.com"
+      #     git add 广西_可用直播源.txt
+      #     git commit -m "Daily update: Guangxi IPTV sources $(date '+%Y-%m-%d')" || echo "No changes to commit"
+      #     git push
