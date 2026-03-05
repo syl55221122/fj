@@ -123,10 +123,6 @@ def main():
         print("没有发现任何存活的 udpxy 服务器。")
         return
 
-    # 限制测试服务器数量，避免任务爆炸
-    alive_servers = alive_servers[:150]
-    print(f"\n限制测试前 {len(alive_servers)} 个存活服务器")
-
     # 开始测速
     print(f"\n开始并发测速（共 {len(alive_servers) * len(channels)} 个任务）...\n")
     results = []
