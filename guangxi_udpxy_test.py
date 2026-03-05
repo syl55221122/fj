@@ -6,7 +6,7 @@ from urllib.parse import urljoin, urlparse
 # ====================== 配置区 ======================
 # 你的 udpxy 服务器列表来源（可替换成其他 github raw 链接）
 # 格式示例：每行一个 http://1.2.3.4:4022  或 1.2.3.4:4022
-UDPPXY_LIST_URL = "https://raw.githubusercontent.com/syl55221122/fj/refs/heads/main/Quanbu2.txt"  # ← 你需要自己找或维护这个列表
+UDPPXY_LIST_URL = "https://raw.githubusercontent.com/syl55221122/fj/refs/heads/main/liveip.txt"  # ← 你需要自己找或维护这个列表
 
 # 频道后缀 + 名称文件（你原来的格式： /udp/239.1.2.3:1234, 频道名）
 CHANNEL_FILE_URL = "https://raw.githubusercontent.com/syl55221122/fj/refs/heads/main/zuboip.txt"
@@ -21,7 +21,7 @@ MAX_DOWNLOAD_BYTES = 1 * 1024 * 1024  # 1MB
 SPEED_TIMEOUT = 8
 
 # 并发线程数（别太大，容易被本地网络或目标限流）
-MAX_WORKERS = 30
+MAX_WORKERS = 10
 # ====================================================
 
 def load_udpxy_servers(url):
