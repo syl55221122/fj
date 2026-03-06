@@ -55,17 +55,21 @@ def load_channels(url):
         return {}
 
 def is_udpxy_alive(server, timeout=3):
-    """只用一个假组播地址判断 udpxy 是否在线"""
-    test_url = f"{server}/udp/237.2.1.141:1234"
-    try:
-        with requests.get(test_url, timeout=timeout, stream=True) as r:
-            if r.status_code in (200, 206, 403):
-                # 读一点数据确认不是纯空响应
-                chunk = next(r.iter_content(1024), b'')
-                if chunk or r.status_code in (200, 206):
-                    return True
-    except:
-        pass
+    """多路径假组播检测，增加成功率"""
+    test_urls = [
+        f"{server}/rtp/239.12.22.3:10001",      # 你指定的地址
+        f"{server}/udp/237.2.1.141:1234",       # 原地址作为备用
+        
+    ]
+    for tu in test_urls:
+        try:
+            with requests.get(tu, timeout=timeout, stream=True) as r:
+                if r.status_code in (200, 206, 403):
+                    chunk = next(r.iter_content(1024), b'')
+                    if chunk or r.status_code in (200, 206):
+                        return True
+        except:
+            continue
     return False
 
 def measure_speed(server, path, name, max_bytes=MAX_DOWNLOAD_BYTES):
