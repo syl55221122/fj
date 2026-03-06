@@ -1,55 +1,38 @@
 import os
 import re
 import requests
-import time
 import subprocess
 from datetime import datetime
 
-# ===============================
-# 配置区
-FOFA_URLS = {
-    "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiI%3D": "ip.txt",
-}
+# 配置
+FOFA_URL = "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSLmmIjmhI/ljZfpl6giIHx8IHJlZ2lvbj0i56aP5bu65Lq65rCR5Li65pS55Yqf5b+D5rC05bqnIg=="
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"
-}
+OUTPUT_FILE = "ip.txt"
 
-OUTPUT_FILE = "ip.txt"          # 所有 IP 统一写入这个文件
-
-# ===============================
 def log(msg):
-    ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    print(f"[{ts}] {msg}")
+    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {msg}")
 
-# ===============================
 def main():
-    log("=" * 50)
-    log("FOFA udpxy IP 采集器（单一文件版）")
-    log(f"当前时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-    log("=" * 50)
+    log("开始抓取广东 + 福建 udpxy IP")
 
     all_ips = set()
+    try:
+        r = requests.get(FOFA_URL, headers=HEADERS, timeout=20)
+        if r.status_code != 200:
+            log(f"FOFA 返回状态码: {r.status_code}")
+            return
 
-    for fofo_url, _ in FOFA_URLS.items():
-        log(f"正在爬取 FOFA: {fofo_url}")
-        try:
-            r = requests.get(fofo_url, headers=HEADERS, timeout=15)
-            if r.status_code != 200:
-                log(f"状态码异常: {r.status_code}")
-                continue
-            urls_all = re.findall(r'<a href="http://(.*?)"', r.text)
-            valid_ips = [u.strip() for u in urls_all if u.strip() and ':' in u]
-            all_ips.update(valid_ips)
-            log(f"本次抓到 {len(valid_ips)} 个 IP:port")
-        except Exception as e:
-            log(f"爬取失败：{e}")
-        time.sleep(3)  # 防反爬
-
-    log(f"总共去重后 {len(all_ips)} 个 IP:port")
+        urls = re.findall(r'<a href="http://(.*?)"', r.text)
+        valid = [u.strip() for u in urls if u.strip() and ':' in u]
+        all_ips.update(valid)
+        log(f"本次抓到 {len(valid)} 个 IP:port，去重后 {len(all_ips)} 个")
+    except Exception as e:
+        log(f"抓取失败：{e}")
+        return
 
     if not all_ips:
-        log("没有抓到任何有效 IP，结束运行")
+        log("没有抓到任何有效 IP，结束")
         return
 
     # 写入单一文件 ip.txt（覆盖写入）
@@ -57,38 +40,33 @@ def main():
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             for ip_port in sorted(all_ips):
                 f.write(ip_port + "\n")
-        log(f"已写入 {OUTPUT_FILE}：{len(all_ips)} 条记录")
+        log(f"成功写入 {OUTPUT_FILE}：{len(all_ips)} 条记录")
     except Exception as e:
-        log(f"写入文件失败：{e}")
+        log(f"写入失败：{e}")
         return
 
-    # 自动 git add / commit / push
+    # git add / commit / push
     try:
-        # git add
-        subprocess.run(['git', 'add', OUTPUT_FILE], check=True, capture_output=True)
+        subprocess.run(['git', 'config', '--global', 'user.name', 'GitHub Actions Bot'], check=True)
+        subprocess.run(['git', 'config', '--global', 'user.email', 'actions@github.com'], check=True)
         
-        # 检查是否有变更（避免无谓 commit）
+        # 先 pull 避免冲突
+        subprocess.run(['git', 'pull', 'origin', 'main', '--rebase'], check=False)
+        
+        subprocess.run(['git', 'add', OUTPUT_FILE], check=True)
+        
         status = subprocess.run(['git', 'status', '--porcelain'], capture_output=True, text=True)
-        if not status.stdout.strip():
-            log("没有变更，无需 commit & push")
-            return
-
-        # commit
-        commit_msg = f"自动更新 FOFA udpxy IP 列表 {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
-        subprocess.run(['git', 'commit', '-m', commit_msg], check=True, capture_output=True)
-        
-        # push
-        subprocess.run(['git', 'push', 'origin', 'main'], check=True, capture_output=True)
-        log("Git commit & push 成功")
-    except subprocess.CalledProcessError as e:
-        log(f"Git 操作失败：{e}")
-        if e.stderr:
-            log(f"错误详情: {e.stderr.decode('utf-8', errors='ignore')}")
+        if status.stdout.strip():
+            commit_msg = f"自动更新 广东+福建 udpxy IP {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}"
+            subprocess.run(['git', 'commit', '-m', commit_msg], check=True)
+            subprocess.run(['git', 'push', 'origin', 'main'], check=True)
+            log("Git commit & push 成功")
+        else:
+            log("没有变更，无需 commit/push")
     except Exception as e:
-        log(f"Git 意外错误：{e}")
+        log(f"Git 操作失败：{e}")
 
-    log("\n任务完成！")
-    log("=" * 50)
+    log("任务完成")
 
 if __name__ == "__main__":
     main()
