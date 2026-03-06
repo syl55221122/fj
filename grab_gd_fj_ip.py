@@ -8,7 +8,7 @@ from requests.packages.urllib3.util.retry import Retry
 
 # ===============================
 # 配置区
-FOFA_URL = "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSLmmIjmhI/ljZfpl6giIHx8IHJlZ2lvbj0i56aP5bu65Lq65rCR5Li65pS55Yqf5b+D5rC05bqnIg=="
+FOFA_URL = "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJmdWppYW4iIHx8IHJlZ2lvbj0iZ3Vhbmdkb25nIg=="
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"
