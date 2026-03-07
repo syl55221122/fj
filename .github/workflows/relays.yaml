@@ -31,9 +31,22 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: guangxi-available-sources
-          path: 广西_可用直播源.txt
+          path: 全国_可用直播源.txt
           if-no-files-found: warn
-
+          
+    # 写入文件（即使 valid=0 也生成标题）
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write(f"# 全国可用直播源（生成于 {time.strftime('%Y-%m-%d %H:%M')})\n")
+        f.write(f"# 来源服务器列表: {UDPPXY_LIST_URL.split('/')[-1]}\n")
+        f.write(f"# 来源频道列表: {CHANNEL_FILE_URL.split('/')[-1]}\n")
+        f.write(f"# 共找到 {len(valid)} 条有效线路（速度降序）\n\n")
+        f.write("#genre#\n")
+        for name, url, speed in valid:
+            f.write(f"{name},{url} # {speed:.2f} Mbps\n")
+        # 加这一行，确保文件一定存在
+        if not valid:
+            f.write("# 无可用源（所有测速 ≤0.3 Mbps 或失败）\n")
+            
       # 可选：自动把结果提交回仓库（需要先设置权限）
       # 去仓库 Settings → Actions → General → Workflow permissions → 勾选 "Read and write permissions"
       # 然后去掉下面 4 行前面的 # 注释
