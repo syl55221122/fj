@@ -5,12 +5,12 @@ from urllib.parse import urljoin
 
 # ====================== 配置区 ======================
 UDPPXY_LIST_URL = "https://raw.githubusercontent.com/syl55221122/fj/refs/heads/main/1.txt"
-CHANNEL_FILE_URL = "https://raw.githubusercontent.com/syl55221122/fj/refs/heads/main/fjgd.txt"  # 你自己的全国列表
+CHANNEL_FILE_URL = "https://raw.githubusercontent.com/syl55221122/fj/refs/heads/main/fjgd.txt"  # 你自己的全国频道列表
 
 OUTPUT_FILE = "全国_可用直播源.txt"
-MAX_DOWNLOAD_BYTES = 3 * 1024 * 1024   # 改成 3MB，更容易通过
+MAX_DOWNLOAD_BYTES = 3 * 1024 * 1024   # 3MB，更容易通过
 SPEED_TIMEOUT = 10                     # 延长到10秒
-MAX_WORKERS = 12
+MAX_WORKERS = 12                       # 并发12
 # ====================================================
 
 def log(msg):
@@ -18,6 +18,7 @@ def log(msg):
     print(f"[{ts}] {msg}")
 
 def load_udpxy_servers(url):
+    """加载 udpxy 服务器列表"""
     try:
         r = requests.get(url, timeout=15)
         r.raise_for_status()
@@ -31,12 +32,13 @@ def load_udpxy_servers(url):
             elif ':' in line:
                 servers.append(f"http://{line.rstrip('/')}")
         log(f"加载到 {len(servers)} 个 udpxy 服务器")
-        return list(set(servers))
+        return list(set(servers))  # 去重
     except Exception as e:
-        log(f"加载服务器列表失败：{e}")
+        log(f"加载 udpxy 列表失败：{e}")
         return []
 
 def load_channels(url):
+    """加载 后缀路径 -> 名称 的映射"""
     try:
         r = requests.get(url, timeout=15)
         r.raise_for_status()
@@ -57,22 +59,24 @@ def load_channels(url):
         return {}
 
 def is_udpxy_alive(server, timeout=4):
-    test_url = f"{server}/rtp/239.255.255.250:1900"
+    """简单判断 udpxy 是否在线，只用一个假组播地址"""
+    test_url = f"{server}/rtp/239.3.1.129:8008"
     try:
-        r = requests.get(test_url, timeout=timeout, stream=True)
-        if r.status_code in (200, 206, 403):
-            return True
+        with requests.get(test_url, timeout=timeout, stream=True) as r:
+            if r.status_code in (200, 206, 403):
+                return True
     except:
         pass
     return False
 
 def measure_speed(server, path, name, max_bytes=MAX_DOWNLOAD_BYTES):
+    """测速单个播放地址，放宽条件"""
     full_url = urljoin(server + '/', path.lstrip('/'))
     try:
         start = time.time()
         r = requests.get(full_url, stream=True, timeout=SPEED_TIMEOUT)
         
-        # 放宽条件：只要求 200 + 下载到一点数据即可
+        # 放宽条件：只要求 200 + 下载到一点数据
         if r.status_code != 200:
             return name, full_url, 0.0
 
@@ -85,7 +89,7 @@ def measure_speed(server, path, name, max_bytes=MAX_DOWNLOAD_BYTES):
                 break
 
         elapsed = time.time() - start
-        if elapsed < 0.5 or downloaded < 300 * 1024:   # 至少下 300KB
+        if elapsed < 0.5 or downloaded < 300 * 1024:  # 至少下 300KB
             return name, full_url, 0.0
 
         speed_mbps = (downloaded / elapsed) / (1024 * 1024) * 8
