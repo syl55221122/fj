@@ -60,7 +60,7 @@ def load_channels(url):
 
 def is_udpxy_alive(server, timeout=3):
     """简单判断 udpxy 是否在线，只用一个假组播地址"""
-    test_url = f"{server}/rtp/239.255.255.250:1900"
+    test_url = f"{server}/rtp/239.3.1.129:8008"
     try:
         with requests.get(test_url, timeout=timeout, stream=True) as r:
             if r.status_code in (200, 206, 403):
