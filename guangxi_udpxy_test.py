@@ -1,16 +1,16 @@
 import requests
 import time
 import concurrent.futures
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin
 
 # ====================== 配置区 ======================
 UDPPXY_LIST_URL = "https://raw.githubusercontent.com/syl55221122/fj/refs/heads/main/1.txt"
-CHANNEL_FILE_URL = "https://raw.githubusercontent.com/syl55221122/fj/refs/heads/main/fjgd.txt"
+CHANNEL_FILE_URL = "https://raw.githubusercontent.com/syl55221122/fj/refs/heads/main/fjgd.txt"  # 你自己的全国列表
 
-OUTPUT_FILE = "广西_可用直播源.txt"
-MAX_DOWNLOAD_BYTES = 2 * 1024 * 1024  # 2MB
-SPEED_TIMEOUT = 6                     # 6秒
-MAX_WORKERS = 10                      # 并发10
+OUTPUT_FILE = "全国_可用直播源.txt"
+MAX_DOWNLOAD_BYTES = 3 * 1024 * 1024   # 改成 3MB，更容易通过
+SPEED_TIMEOUT = 10                     # 延长到10秒
+MAX_WORKERS = 12
 # ====================================================
 
 def log(msg):
@@ -18,9 +18,8 @@ def log(msg):
     print(f"[{ts}] {msg}")
 
 def load_udpxy_servers(url):
-    """加载 udpxy 服务器列表"""
     try:
-        r = requests.get(url, timeout=10)
+        r = requests.get(url, timeout=15)
         r.raise_for_status()
         servers = []
         for line in r.text.splitlines():
@@ -32,15 +31,14 @@ def load_udpxy_servers(url):
             elif ':' in line:
                 servers.append(f"http://{line.rstrip('/')}")
         log(f"加载到 {len(servers)} 个 udpxy 服务器")
-        return list(set(servers))  # 去重
+        return list(set(servers))
     except Exception as e:
-        log(f"加载 udpxy 列表失败：{e}")
+        log(f"加载服务器列表失败：{e}")
         return []
 
 def load_channels(url):
-    """加载 后缀路径 -> 名称 的映射"""
     try:
-        r = requests.get(url, timeout=10)
+        r = requests.get(url, timeout=15)
         r.raise_for_status()
         channels = {}
         for line in r.text.splitlines():
@@ -52,35 +50,34 @@ def load_channels(url):
             name = name.strip()
             if path and name:
                 channels[path] = name
-        log(f"加载到 {len(channels)} 个频道")
+        log(f"加载到 {len(channels)} 个频道（来自 fjgd.txt）")
         return channels
     except Exception as e:
         log(f"加载频道列表失败：{e}")
         return {}
 
-def is_udpxy_alive(server, timeout=3):
-    """简单判断 udpxy 是否在线，只用一个假组播地址"""
-    test_url = f"{server}/rtp/239.3.1.129:8008"
+def is_udpxy_alive(server, timeout=4):
+    test_url = f"{server}/rtp/239.255.255.250:1900"
     try:
-        with requests.get(test_url, timeout=timeout, stream=True) as r:
-            if r.status_code in (200, 206, 403):
-                return True
+        r = requests.get(test_url, timeout=timeout, stream=True)
+        if r.status_code in (200, 206, 403):
+            return True
     except:
         pass
     return False
 
 def measure_speed(server, path, name, max_bytes=MAX_DOWNLOAD_BYTES):
-    """测速单个播放地址"""
     full_url = urljoin(server + '/', path.lstrip('/'))
     try:
         start = time.time()
         r = requests.get(full_url, stream=True, timeout=SPEED_TIMEOUT)
-        # 加 Content-Type 检查，避免假 200
-        if r.status_code != 200 or 'video' not in r.headers.get('Content-Type', '').lower():
+        
+        # 放宽条件：只要求 200 + 下载到一点数据即可
+        if r.status_code != 200:
             return name, full_url, 0.0
 
         downloaded = 0
-        for chunk in r.iter_content(1024 * 512):  # 512KB 块
+        for chunk in r.iter_content(1024 * 512):
             if not chunk:
                 break
             downloaded += len(chunk)
@@ -88,11 +85,11 @@ def measure_speed(server, path, name, max_bytes=MAX_DOWNLOAD_BYTES):
                 break
 
         elapsed = time.time() - start
-        if elapsed < 0.3:  # 太快可能是缓存或假响应
+        if elapsed < 0.5 or downloaded < 300 * 1024:   # 至少下 300KB
             return name, full_url, 0.0
 
-        speed_mbps = (downloaded / elapsed) / (1024 * 1024) * 8  # 转为 Mbps
-        log(f" {name:<18} {full_url:<40} {speed_mbps:6.2f} Mbps")
+        speed_mbps = (downloaded / elapsed) / (1024 * 1024) * 8
+        log(f" ✓ {name:<20} {full_url:<45} {speed_mbps:6.2f} Mbps")
         return name, full_url, speed_mbps
 
     except Exception:
@@ -101,16 +98,15 @@ def measure_speed(server, path, name, max_bytes=MAX_DOWNLOAD_BYTES):
 def main():
     servers = load_udpxy_servers(UDPPXY_LIST_URL)
     if not servers:
-        log("没有可用 udpxy 服务器，退出。")
+        log("没有可用服务器，退出")
         return
 
     channels = load_channels(CHANNEL_FILE_URL)
     if not channels:
-        log("没有频道列表，退出。")
+        log("没有频道列表，退出")
         return
 
-    # 先筛选活的服务器
-    log("\n筛选存活的 udpxy 服务器...")
+    log("\n开始筛选存活服务器...")
     alive_servers = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=20) as exe:
         futures = {exe.submit(is_udpxy_alive, s): s for s in servers}
@@ -121,38 +117,30 @@ def main():
                 log(f" 存活 → {s}")
 
     if not alive_servers:
-        log("没有发现任何存活的 udpxy 服务器。")
+        log("没有存活服务器")
         return
 
-    # 开始测速（全部存活服务器，不限制数量）
-    log(f"\n开始并发测速（共 {len(alive_servers) * len(channels)} 个任务）...\n")
+    log(f"\n开始测速（{len(alive_servers)} 个服务器 × {len(channels)} 个频道）...\n")
     results = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = []
-        for server in alive_servers:
-            for path, name in channels.items():
-                futures.append(
-                    executor.submit(measure_speed, server, path, name)
-                )
+        futures = [executor.submit(measure_speed, server, path, name) 
+                   for server in alive_servers 
+                   for path, name in channels.items()]
         for fut in concurrent.futures.as_completed(futures):
             results.append(fut.result())
 
-    # 筛选有效结果并排序（速度降序）
-    valid = [r for r in results if r[2] > 0.5]  # 过滤掉 <0.5Mbps 的
+    valid = [r for r in results if r[2] > 0.3]   # 门槛降低到 0.3 Mbps
     valid.sort(key=lambda x: x[2], reverse=True)
 
-    # 写入文件
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(f"# 广西 IPTV 可用源（生成于 {time.strftime('%Y-%m-%d %H:%M')}\n")
-        f.write(f"# 来源服务器列表: {UDPPXY_LIST_URL.split('/')[-1]}\n")
-        f.write(f"# 来源频道列表: {CHANNEL_FILE_URL.split('/')[-1]}\n")
+        f.write(f"# 全国可用直播源（生成于 {time.strftime('%Y-%m-%d %H:%M')})\n")
         f.write(f"# 共找到 {len(valid)} 条有效线路（速度降序）\n\n")
         f.write("#genre#\n")
         for name, url, speed in valid:
             f.write(f"{name},{url} # {speed:.2f} Mbps\n")
 
     log(f"\n完成！有效线路已保存到：{OUTPUT_FILE}")
-    log(f"共 {len(valid)} 条速度 >0.5Mbps 的线路")
+    log(f"共找到 {len(valid)} 条速度 >0.3 Mbps 的线路")
 
 if __name__ == "__main__":
     main()
