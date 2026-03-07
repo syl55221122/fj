@@ -57,7 +57,7 @@ def load_channels(url):
 def is_udpxy_alive(server, timeout=3):
     """多路径假组播检测，增加成功率"""
     test_urls = [
-        f"{server}/rtp/239.12.22.3:10001",      # 你指定的地址
+        f"{server}/rtp/239.3.1.129:8008",      # 你指定的地址
         f"{server}/udp/237.2.1.141:1234",       # 原地址作为备用
         
     ]
