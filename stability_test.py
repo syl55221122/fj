@@ -59,13 +59,7 @@ def test_stream(url, duration=TEST_DURATION):
         return {"url": url, "stable": False, "bitrate": 0.0, "error": "超时"}
     except Exception as e:
         return {"url": url, "stable": False, "bitrate": 0.0, "error": str(e)[:200]}
-...
-    except subprocess.TimeoutExpired:
-        log(f"超时 - {url}")
-        return {"url": url, "stable": False, "bitrate": 0.0, "error": "超时"}
-    except Exception as e:
-        log(f"异常 - {url} : {str(e)}")
-        return {"url": url, "stable": False, "bitrate": 0.0, "error": str(e)}
+
 def main():
     if not os.path.exists(INPUT_FILE):
         log(f"输入文件 {INPUT_FILE} 不存在")
