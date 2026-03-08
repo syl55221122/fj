@@ -1,0 +1,44 @@
+name: 每日直播源稳定性测试
+
+on:
+  schedule:
+    - cron: '30 0 * * *'          # UTC 00:30 → 北京时间 08:30
+  workflow_dispatch:              # 支持手动触发
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装 ffmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: 运行稳定性测试
+        run: python stability_test.py
+
+      - name: 提交并推送结果
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          
+          git pull origin main --rebase || true
+          
+          git add 稳定源.txt || true
+          
+          if git diff --cached --quiet; then
+            echo "没有变更"
+          else
+            git commit -m "每日稳定性测试更新 $(date '+%Y-%m-%d %H:%M UTC')"
+          fi
+          
+          git push origin HEAD:main
