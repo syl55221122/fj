@@ -10,7 +10,7 @@ from datetime import datetime
 # ================== 配置 ==================
 INPUT_FILE = "全国_可用直播源.txt"     # 输入文件（你的直播源 txt）
 OUTPUT_FILE = "稳定源.txt"               # 输出稳定源
-TEST_DURATION = 60                        # 测试时长（秒）
+TEST_DURATION = 30                        # 测试时长（秒）
 MIN_BITRATE = 0.5                         # 最低平均码率（Mbps）
 MAX_WORKERS = 6                           # 并发数（根据机器性能调）
 # ===========================================
@@ -59,7 +59,13 @@ def test_stream(url, duration=TEST_DURATION):
         return {"url": url, "stable": False, "bitrate": 0.0, "error": "超时"}
     except Exception as e:
         return {"url": url, "stable": False, "bitrate": 0.0, "error": str(e)[:200]}
-
+...
+    except subprocess.TimeoutExpired:
+        log(f"超时 - {url}")
+        return {"url": url, "stable": False, "bitrate": 0.0, "error": "超时"}
+    except Exception as e:
+        log(f"异常 - {url} : {str(e)}")
+        return {"url": url, "stable": False, "bitrate": 0.0, "error": str(e)}
 def main():
     if not os.path.exists(INPUT_FILE):
         log(f"输入文件 {INPUT_FILE} 不存在")
