@@ -11,8 +11,8 @@ from datetime import datetime
 INPUT_FILE = "全国_可用直播源.txt"     # 输入文件（你的直播源 txt）
 OUTPUT_FILE = "稳定源.txt"               # 输出稳定源
 TEST_DURATION = 30                        # 测试时长（秒）
-MIN_BITRATE = 0.5                         # 最低平均码率（Mbps）
-MAX_WORKERS = 6                           # 并发数（根据机器性能调）
+MIN_BITRATE = 0.3                         # 最低平均码率（Mbps）
+MAX_WORKERS = 2                           # 并发数（根据机器性能调）
 # ===========================================
 
 def log(msg):
