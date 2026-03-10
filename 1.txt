@@ -1,2740 +1,2820 @@
-27.16.175.50:19999
-182.123.209.199:12345
-111.199.199.50:4022
-39.77.24.107:4001
-123.55.237.200:4022
-119.98.39.81:4022
-39.65.38.203:4001
-183.30.201.115:10002
-27.223.141.193:4001
-180.114.117.42:8333
-220.176.218.76:9000
-117.64.102.164:4022
-180.108.12.38:8000
-114.240.41.217:8888
-183.184.8.87:8005
-116.4.97.246:4080
-223.198.243.134:4000
-180.114.228.120:4022
-123.120.7.139:4022
-183.30.202.6:8000
-59.34.28.21:4022
-183.164.237.101:8888
-112.66.99.188:8888
-171.117.109.106:89
-114.228.33.206:8095
-114.238.59.115:4000
-114.231.128.245:4022
-113.66.40.167:10000
-171.119.207.208:6000
-220.190.84.171:8888
-180.127.133.148:4000
-117.86.48.47:7777
-121.226.125.142:7777
-180.111.29.214:8888
-60.176.87.174:8888
-182.117.205.134:7000
-183.129.136.102:9999
-180.122.53.201:4022
-175.0.67.185:9999
-221.232.41.227:8888
-113.128.68.75:4022
-119.135.192.194:10000
-183.30.201.231:10002
-223.10.85.117:8888
-171.119.207.142:6000
-123.181.147.244:7000
-113.101.244.89:10000
-101.19.11.76:4000
-39.64.49.111:4022
-124.77.177.88:5555
-118.251.62.196:8888
-115.171.80.52:1688
-115.210.165.39:8001
-123.96.225.112:9999
-116.9.34.165:4000
-183.30.201.244:10002
-121.230.171.128:9981
-183.184.43.254:8001
-183.164.63.183:5000
-123.118.53.50:8686
-220.176.218.23:9000
-42.224.140.113:4022
-120.41.66.7:18888
-113.92.197.33:9999
-113.205.140.92:4022
-116.237.61.115:4022
-123.113.183.24:8001
-124.78.12.70:8686
-115.45.243.189:8888
-221.235.69.226:40000
-171.113.114.67:4022
-114.250.23.126:4022
-121.239.179.141:8000
-171.122.196.44:8085
-113.248.109.51:18888
-182.117.224.200:7000
-121.226.125.17:7777
-117.63.248.32:8095
-171.124.111.237:8085
-116.233.24.214:4022
-183.184.149.235:8001
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.23.10.226:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-183.23.10.226:8888 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.23.10.226:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.23.10.226:8888 # 死链
-112.254.55.106:22222 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.23.10.226:8888 # 死链
-112.254.55.106:22222 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.23.10.226:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-112.254.55.106:22222 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-220.190.85.159:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-182.126.180.241:8686 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-182.126.180.241:8686 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-59.173.123.207:8686 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-59.173.123.207:8686 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-59.173.123.207:8686 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-59.173.123.207:8686 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-59.173.123.207:8686 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-59.173.123.207:8686 # 死链
-220.190.85.159:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.250.20.108:4022 # 死链
-171.113.252.221:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.250.20.108:4022 # 死链
-171.113.252.221:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-115.171.216.84:4000 # 死链
-114.250.20.108:4022 # 死链
-171.113.252.221:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.191.179.53:8003 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.107.248.20:8088 # 死链
-115.211.50.112:8001 # 死链
-183.191.179.53:8003 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-115.211.50.112:8001 # 死链
-183.191.179.53:8003 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-115.211.50.112:8001 # 死链
-183.191.179.53:8003 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.107.248.20:8088 # 死链
-106.116.127.80:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-106.116.127.80:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-106.116.127.80:4022 # 死链
-119.162.163.61:6688 # 死链
-222.217.27.194:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-119.162.163.61:6688 # 死链
-222.217.27.194:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-119.162.163.61:6688 # 死链
-222.217.27.194:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-111.196.130.206:8686 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.95.72.246:10000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-111.196.130.206:8686 # 死链
-116.21.205.112:9530 # 死链
-116.21.205.112:9527 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.241.91.20:4022 # 死链
-116.21.205.112:9530 # 死链
-116.21.205.112:9527 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-116.21.205.112:9530 # 死链
-116.21.205.112:9527 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-116.21.205.112:9530 # 死链
-116.21.205.112:9527 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-117.60.126.88:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-117.60.126.88:4022 # 死链
-114.241.91.20:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-117.60.126.88:4022 # 死链
-114.241.91.20:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-116.30.248.225:8686 # 死链
-117.60.126.88:4022 # 死链
-114.241.91.20:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.95.72.246:10000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-124.112.189.209:4022 # 死链
-111.167.17.186:5002 # 死链
-114.233.64.19:4022 # 死链
-113.95.72.246:10000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-60.186.48.176:9999 # 死链
-113.95.72.246:10000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-60.186.48.176:9999 # 死链
-113.95.72.246:10000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-60.186.109.112:4000 # 死链
-180.109.220.217:7000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-123.113.188.206:8001 # 死链
-60.186.109.112:4000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-123.113.188.206:8001 # 死链
-114.233.64.19:4022 # 死链
-60.186.109.112:4000 # 死链
-183.30.202.249:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-42.227.189.169:7000 # 死链
-111.167.17.186:5002 # 死链
-123.113.188.206:8001 # 死链
-60.186.109.112:4000 # 死链
-183.30.202.249:8000 # 死链
-115.150.69.94:6003 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-42.227.189.169:7000 # 死链
-111.167.17.186:5002 # 死链
-123.113.188.206:8001 # 死链
-183.153.80.172:4022 # 死链
-60.186.109.112:4000 # 死链
-183.30.202.249:8000 # 死链
-115.150.69.94:6003 # 死链
-60.223.78.172:7000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-42.227.189.169:7000 # 死链
-111.167.17.186:5002 # 死链
-114.233.64.19:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.233.64.19:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-221.232.8.180:40000 # 死链
-114.233.64.19:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-221.232.8.180:40000 # 死链
-114.233.64.19:4022 # 死链
-61.146.188.73:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.233.64.19:4022 # 死链
-221.232.8.180:40000 # 死链
-61.146.188.73:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-180.121.51.18:6666 # 死链
-180.109.221.152:7000 # 死链
-124.112.189.209:4022 # 死链
-221.232.8.180:40000 # 死链
-114.233.64.19:4022 # 死链
-61.146.188.73:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.110.113.241:50000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.110.113.241:50000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.110.113.241:50000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.110.113.241:50000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.110.113.241:50000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.149.178.158:9999 # 死链
-183.184.42.223:8001 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.149.178.158:9999 # 死链
-183.184.42.223:8001 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.149.178.158:9999 # 死链
-121.226.125.152:7777 # 死链
-183.184.42.223:8001 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.30.202.94:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.30.202.94:8000 # 死链
-121.226.125.152:7777 # 死链
-125.121.152.97:8000 # 死链
-121.226.125.245:7777 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-125.120.192.7:4022 # 死链
-111.167.17.186:5002 # 死链
-183.30.202.94:8000 # 死链
-125.121.152.97:8000 # 死链
-183.161.142.80:7000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-125.120.192.7:4022 # 死链
-111.167.17.186:5002 # 死链
-113.251.226.252:7788 # 死链
-183.30.202.94:8000 # 死链
-125.121.152.97:8000 # 死链
-183.161.142.80:7000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-125.120.192.7:4022 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.251.226.252:7788 # 死链
-183.30.202.94:8000 # 死链
-125.121.152.97:8000 # 死链
-183.161.142.80:7000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-125.120.192.7:4022 # 死链
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-119.135.192.163:10000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-61.146.190.56:8000 # 死链
-183.30.202.248:8000 # 死链
-119.135.192.163:10000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-117.64.244.75:6688 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-117.64.244.75:6688 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-116.21.124.80:9999 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-106.59.2.14:55555 # 死链
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-121.33.112.144:54321 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-121.33.112.144:54321 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-121.33.112.144:54321 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-121.33.112.144:54321 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.92.158.131:50000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.92.158.131:50000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.92.158.131:50000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.92.158.131:50000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-221.228.163.38:4022 # 死链
-113.92.158.131:50000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-222.79.192.174:8000 # 死链
-113.223.25.76:9000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-222.79.192.174:8000 # 死链
-113.223.25.76:9000 # 死链
-113.251.226.252:7788 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-222.79.192.174:8000 # 死链
-113.223.25.76:9000 # 死链
-171.8.194.206:8800 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-222.79.192.174:8000 # 死链
-113.223.25.76:9000 # 死链
-171.8.194.206:8800 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-222.79.192.174:8000 # 死链
-113.223.25.76:9000 # 死链
-171.8.194.206:8800 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-59.173.53.207:999 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-59.173.53.207:999 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-59.173.53.207:999 # 死链
-111.167.17.186:5002 # 死链
-59.173.53.207:999 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-220.175.144.232:9000 # 死链
-106.59.2.102:55555 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-220.175.144.232:9000 # 死链
-106.59.2.102:55555 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-180.112.226.20:4022 # 死链
-123.115.211.232:8888 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-180.112.226.20:4022 # 死链
-123.115.211.232:8888 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-180.112.226.20:4022 # 死链
-123.115.211.232:8888 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-180.112.226.20:4022 # 死链
-123.115.211.232:8888 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.241.203.136:1314 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.241.203.136:1314 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-114.241.203.136:1314 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.191.2.11:8005 # 死链
-121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
-114.241.203.136:1314 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.108.106.212:7778 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-116.30.197.118:55555 # 死链
-125.108.106.212:7778 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-121.226.10.188:8888 # 死链
-116.30.197.118:55555 # 死链
-114.245.20.170:8888 # 死链
-125.108.106.212:7778 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-121.226.10.188:8888 # 死链
-116.30.197.118:55555 # 死链
-114.245.20.170:8888 # 死链
-125.108.106.212:7778 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-121.226.10.188:8888 # 死链
-116.30.197.118:55555 # 死链
-114.245.20.170:8888 # 死链
-125.108.106.212:7778 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-223.10.83.155:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-223.10.83.155:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-223.10.83.155:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-223.10.83.155:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-223.10.83.155:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.133.84.179:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-115.196.255.1:9050 # 死链
-183.133.84.179:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-115.196.255.1:9050 # 死链
-183.133.84.179:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-115.196.255.1:9050 # 死链
-183.133.84.179:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-115.196.255.1:9050 # 死链
-183.133.84.179:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-115.196.255.1:9050 # 死链
-183.133.84.179:4022 # 死链
-59.175.8.235:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.250.22.192:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-221.232.103.26:8989 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-114.250.22.192:4022 # 死链
-111.167.17.186:5002 # 死链
-221.232.103.26:8989 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-114.250.22.192:4022 # 死链
-111.167.17.186:5002 # 死链
-221.232.103.26:8989 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-114.250.22.192:4022 # 死链
-111.167.17.186:5002 # 死链
-221.232.103.26:8989 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-114.250.22.192:4022 # 死链
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.232.45.149:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-223.247.168.98:4000 # 死链
-114.232.45.149:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.232.45.149:8888 # 死链
-223.247.168.98:4000 # 死链
-113.25.105.43:10000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.30.201.39:10002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-139.214.51.3:6565 # 死链
-183.30.201.39:10002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-139.214.51.3:6565 # 死链
-183.30.201.39:10002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-139.214.51.3:6565 # 死链
-183.30.201.39:10002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.232.242.225:8848 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.232.242.225:8848 # 死链
-60.186.178.118:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.232.242.225:8848 # 死链
-60.186.178.118:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.232.242.225:8848 # 死链
-60.186.178.118:4022 # 死链
-183.149.100.134:9999 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.232.242.225:8848 # 死链
-60.186.178.118:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.30.202.14:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.30.202.14:8000 # 死链
-123.122.1.209:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.251.226.252:7788 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.251.226.252:7788 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.251.226.252:7788 # 死链
-129.204.143.226:7000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-221.227.108.206:8800 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.141.143.200:19999 # 死链
-114.254.76.186:4022 # 死链
-180.121.217.127:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-27.17.214.6:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-27.17.212.40:8888 # 死链
-111.167.17.186:5002 # 死链
-27.17.214.6:8888 # 死链
-125.80.159.239:7788 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-27.17.212.40:8888 # 死链
-111.167.17.186:5002 # 死链
-27.17.214.6:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-27.17.212.40:8888 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-27.17.214.6:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-27.17.212.40:8888 # 死链
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-123.118.66.19:4000 # 死链
-117.86.49.60:7777 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-123.118.66.19:4000 # 死链
-117.86.49.60:7777 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.80.159.239:7788 # 死链
-123.118.66.19:4000 # 死链
-121.226.125.133:7777 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.75.180.173:2086 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.75.180.173:2086 # 屏蔽区域: Guangdong China Telecom
-121.226.125.133:7777 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.75.180.173:2086 # 屏蔽区域: Guangdong China Telecom
-121.226.125.133:7777 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.75.180.173:2086 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.75.180.173:2086 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.75.180.173:2086 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.75.180.173:2086 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.75.180.173:2086 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-183.30.202.48:8000 # 死链
-111.167.17.186:5002 # 死链
-113.75.180.173:2086 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-183.30.202.48:8000 # 死链
-111.167.17.186:5002 # 死链
-122.246.148.104:7777 # 死链
-113.75.180.173:2086 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-122.246.148.104:7777 # 死链
-113.75.180.173:2086 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-122.246.148.104:7777 # 死链
-113.75.180.173:2086 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-122.246.148.104:7777 # 死链
-113.75.180.173:2086 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-122.246.148.104:7777 # 死链
-113.75.180.173:2086 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-122.246.148.104:7777 # 死链
-113.75.180.173:2086 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-122.246.148.104:7777 # 死链
-113.75.180.173:2086 # 屏蔽区域: Guangdong China Telecom
-121.230.235.129:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-123.117.161.44:8118 # 死链
-171.8.85.62:8800 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.8.85.62:8800 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.78.253.66:4000 # 死链
-171.8.85.62:8800 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.78.253.66:4000 # 死链
-171.8.85.62:8800 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.78.253.66:4000 # 死链
-171.8.85.62:8800 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.254.110.69:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-183.23.164.123:4022 # 死链
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-114.220.102.109:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-114.220.102.109:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-114.220.102.109:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.151.56.214:4022 # 死链
-171.83.96.76:8005 # 死链
-122.231.246.8:8888 # 死链
-60.186.7.218:4022 # 死链
-114.220.102.109:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.151.56.214:4022 # 死链
-171.83.96.76:8005 # 死链
-122.231.246.8:8888 # 死链
-60.186.7.218:4022 # 死链
-114.220.102.109:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.151.56.214:4022 # 死链
-171.83.96.76:8005 # 死链
-122.231.246.8:8888 # 死链
-60.186.7.218:4022 # 死链
-114.220.102.109:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.151.56.214:4022 # 死链
-171.83.96.76:8005 # 死链
-122.231.246.8:8888 # 死链
-60.186.7.218:4022 # 死链
-114.220.102.109:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.151.56.214:4022 # 死链
-171.83.96.76:8005 # 死链
-122.231.246.8:8888 # 死链
-60.186.7.218:4022 # 死链
-114.220.102.109:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.151.56.214:4022 # 死链
-171.83.96.76:8005 # 死链
-122.231.246.8:8888 # 死链
-60.186.7.218:4022 # 死链
-114.220.102.109:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.151.56.214:4022 # 死链
-171.83.96.76:8005 # 死链
-122.231.246.8:8888 # 死链
-60.186.7.218:4022 # 死链
-114.220.102.109:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-122.231.246.8:8888 # 死链
-183.151.56.214:4022 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-114.220.102.109:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-122.231.246.8:8888 # 死链
-183.151.56.214:4022 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-114.220.102.109:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.151.56.214:4022 # 死链
-122.231.246.8:8888 # 死链
-171.83.96.76:8005 # 死链
-60.186.7.218:4022 # 死链
-114.220.102.109:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-60.186.33.137:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-60.186.33.137:4022 # 死链
-183.23.164.123:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-60.186.33.137:4022 # 死链
-183.23.164.123:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-60.186.33.137:4022 # 死链
-183.23.164.123:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-114.254.110.69:4022 # 死链
-111.167.17.186:5002 # 死链
-60.186.33.137:4022 # 死链
-183.23.164.123:4022 # 死链
-114.254.110.69:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.97.236.220:6688 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-171.117.25.243:8002 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-118.251.97.221:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.117.25.243:8001 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.117.25.243:8001 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-117.91.205.110:4000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-117.91.205.110:4000 # 死链
-114.243.110.77:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-117.91.205.110:4000 # 死链
-171.117.25.243:8002 # 死链
-114.243.110.77:8888 # 死链
-114.245.56.180:8688 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-117.91.205.110:4000 # 死链
-114.243.110.77:8888 # 死链
-114.245.56.180:8688 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-117.91.205.110:4000 # 死链
-114.243.110.77:8888 # 死链
-114.245.56.180:8688 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-122.242.242.207:8001 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-122.242.242.207:8001 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-122.242.242.207:8001 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.213.22.25:6565 # 死链
-122.242.242.207:8001 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.213.22.25:6565 # 死链
-122.242.242.207:8001 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.213.22.25:6565 # 死链
-122.242.242.207:8001 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-42.237.232.4:10000 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-43.138.5.183:10001 # 死链
-42.237.232.4:10000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.185.237.60:8001 # 死链
-111.196.57.164:4022 # 死链
-42.237.232.4:10000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.185.237.60:8001 # 死链
-111.196.57.164:4022 # 死链
-42.237.232.4:10000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.185.237.60:8001 # 死链
-111.196.57.164:4022 # 死链
-42.237.232.4:10000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-58.48.104.36:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.134.163.179:9999 # 死链
-60.189.248.43:8088 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-39.77.157.88:4000 # 死链
-183.134.163.179:9999 # 死链
-60.189.248.43:8088 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-39.77.157.88:4000 # 死链
-183.134.163.179:9999 # 死链
-60.189.248.43:8088 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.97.236.220:6688 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.97.236.220:6688 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-220.184.79.204:9999 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-220.184.79.204:9999 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.108.127.198:7778 # 死链
-125.108.112.27:7778 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.108.127.198:7778 # 死链
-125.108.112.27:7778 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.108.127.198:7778 # 死链
-125.108.112.27:7778 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.108.127.198:7778 # 死链
-115.237.118.207:8000 # 死链
-60.176.94.151:8000 # 死链
-125.108.112.27:7778 # 死链
-119.41.33.41:10000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.108.127.198:7778 # 死链
-115.237.118.207:8000 # 死链
-60.176.94.151:8000 # 死链
-125.108.112.27:7778 # 死链
-119.41.33.41:10000 # 死链
-183.48.242.222:5050 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.120.99.171:7005 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-144.0.57.58:7005 # 死链
-113.101.244.11:10000 # 死链
-113.120.99.171:7005 # 死链
-183.129.42.199:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-144.0.57.58:7005 # 死链
-113.101.244.11:10000 # 死链
-113.120.99.171:7005 # 死链
-183.129.42.199:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-144.0.57.58:7005 # 死链
-117.86.49.60:7777 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-58.48.104.36:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-117.86.49.60:7777 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.107.72.234:8088 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.107.72.234:8088 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.107.72.234:8088 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-58.48.104.36:4022 # 死链
-125.107.72.234:8088 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-58.48.104.36:4022 # 死链
-125.107.72.234:8088 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-58.48.104.36:4022 # 死链
-125.107.72.234:8088 # 死链
-113.17.153.249:8001 # 死链
-117.86.49.60:7777 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-144.0.57.58:7005 # 死链
-119.135.192.163:10000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-119.135.192.163:10000 # 死链
-222.189.106.194:19999 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-113.118.135.107:9999 # 死链
-111.167.17.186:5002 # 死链
-119.135.192.163:10000 # 死链
-222.189.106.194:19999 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-113.118.135.107:9999 # 死链
-111.167.17.186:5002 # 死链
-119.135.192.163:10000 # 死链
-115.227.246.81:9999 # 死链
-222.189.106.194:19999 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-113.118.135.107:9999 # 死链
-111.167.17.186:5002 # 死链
-119.135.192.163:10000 # 死链
-115.227.246.81:9999 # 死链
-222.189.106.194:19999 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-113.118.135.107:9999 # 死链
-111.167.17.186:5002 # 死链
-119.135.192.163:10000 # 死链
-115.227.246.81:9999 # 死链
-222.189.106.194:19999 # 死链
-113.118.135.107:9999 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-123.114.99.216:4022 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-123.121.89.205:8888 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-122.234.227.237:9050 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-122.234.227.237:9050 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-122.234.227.237:9050 # 死链
-115.150.69.161:6001 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-115.150.69.161:6001 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-122.234.227.237:9050 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-115.150.69.161:6001 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-115.211.55.215:8001 # 死链
-122.234.227.237:9050 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-115.150.69.161:6001 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-115.211.55.215:8001 # 死链
-122.234.227.237:9050 # 死链
-182.119.94.178:4022 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-115.150.69.161:6001 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-115.211.55.215:8001 # 死链
-122.234.227.237:9050 # 死链
-182.119.94.178:4022 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-115.150.69.161:6001 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-115.211.55.215:8001 # 死链
-122.234.227.237:9050 # 死链
-182.119.94.178:4022 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-223.242.146.187:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-106.116.241.77:9999 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-106.116.241.77:9999 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-113.75.191.149:2086 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-113.75.191.149:2086 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-113.75.191.149:2086 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-113.75.191.149:2086 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-123.114.99.216:4022 # 死链
-121.226.86.41:55555 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-113.75.191.149:2086 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.216.77.24:4000 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-113.75.191.149:2086 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.216.77.24:4000 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-113.75.191.149:2086 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-106.87.51.219:8888 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-106.87.51.219:8888 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-106.87.51.219:8888 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-180.105.246.122:19999 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-106.87.51.219:8888 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-122.234.200.85:12345 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-180.105.246.122:19999 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-121.226.86.41:55555 # 死链
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-106.87.51.219:8888 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-122.234.200.85:12345 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-180.105.246.122:19999 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-121.226.86.41:55555 # 死链
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-106.118.76.173:4022 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-106.118.76.173:4022 # 死链
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-42.232.116.129:4022 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-106.118.76.173:4022 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-223.244.184.100:7000 # 死链
-42.232.116.129:4022 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-106.118.76.173:4022 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-223.244.184.100:7000 # 死链
-42.232.116.129:4022 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-106.118.76.173:4022 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-223.244.184.100:7000 # 死链
-42.232.116.129:4022 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-106.118.76.173:4022 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-223.244.184.100:7000 # 死链
-42.232.116.129:4022 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-106.118.76.173:4022 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-123.114.99.216:4022 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-60.176.82.148:8000 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-114.231.2.16:8889 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-60.176.82.148:8000 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-114.231.2.16:8889 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-171.8.104.135:8800 # 死链
-60.176.82.148:8000 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-114.231.2.16:8889 # 死链
-111.167.17.186:5002 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-171.8.104.135:8800 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-60.176.82.148:8000 # 死链
-116.21.124.209:9999 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-114.231.2.16:8889 # 死链
-111.167.17.186:5002 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-123.114.99.216:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-117.85.78.188:8800 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-123.114.99.216:4022 # 死链
-117.85.78.188:8800 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-117.85.78.188:8800 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-117.85.78.188:8800 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-117.85.78.188:8800 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-117.85.78.188:8800 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-117.84.155.41:8333 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.17.153.249:8001 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.17.153.249:8001 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-113.17.153.249:8001 # 死链
-59.173.120.194:8686 # 死链
-114.231.67.140:8888 # 死链
-59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.48.241.77:5050 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-116.30.248.52:9876 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.184.146.232:8001 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.48.241.77:5050 # 死链
-123.149.207.199:8800 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-116.30.248.52:9876 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-113.89.245.247:4200 # 死链
-111.167.17.186:5002 # 死链
-183.184.146.232:8001 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.48.241.77:5050 # 死链
-123.149.207.199:8800 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-116.30.248.52:9876 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-113.89.245.247:4200 # 死链
-111.167.17.186:5002 # 死链
-183.184.146.232:8001 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.48.241.77:5050 # 死链
-123.149.207.199:8800 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-116.30.248.52:9876 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-113.89.245.247:4200 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-183.184.146.232:8001 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.48.241.77:5050 # 死链
-123.149.207.199:8800 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-116.30.248.52:9876 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-113.89.245.247:4200 # 死链
-111.167.17.186:5002 # 死链
-183.184.146.232:8001 # 死链
-183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
-183.48.241.77:5050 # 死链
-123.149.207.199:8800 # 死链
-116.30.248.52:9876 # 死链
-183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
-113.110.202.93:55555 # 死链
-175.172.138.73:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-113.89.245.247:4200 # 死链
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-114.223.251.213:8888 # 死链
-111.167.17.186:5002 # 死链
-121.230.235.128:8000 # 死链
-114.223.251.213:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-114.223.251.213:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-121.230.235.128:8000 # 死链
-111.167.17.186:5002 # 死链
-114.223.251.213:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-121.230.235.128:8000 # 死链
-111.167.17.186:5002 # 死链
-171.122.174.63:8085 # 死链
-114.223.251.213:8888 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-121.230.235.128:8000 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.122.174.63:8085 # 死链
-114.223.251.213:8888 # 死链
-121.230.235.128:8000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-60.186.253.122:9999 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-58.62.235.208:10000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-182.121.114.198:8090 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-58.62.235.208:10000 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-182.121.114.198:8090 # 死链
-58.62.235.208:10000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-182.121.114.198:8090 # 死链
-58.62.235.208:10000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-123.114.99.216:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.94.173.139:19999 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.94.173.139:19999 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.94.173.139:19999 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.94.173.139:19999 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-171.8.84.159:8800 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-125.94.173.139:19999 # 屏蔽区域: Guangdong China Telecom
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-119.123.174.144:9999 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-111.193.236.106:9999 # 死链
-183.33.59.236:8686 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-111.193.236.106:9999 # 死链
-115.210.210.224:8001 # 死链
-115.195.135.214:8888 # 死链
-113.101.244.179:10000 # 死链
-183.33.59.236:8686 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-111.193.236.106:9999 # 死链
-115.210.210.224:8001 # 死链
-115.195.135.214:8888 # 死链
-113.101.244.179:10000 # 死链
-183.33.59.236:8686 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-111.193.236.106:9999 # 死链
-115.210.210.224:8001 # 死链
-115.195.135.214:8888 # 死链
-113.101.244.179:10000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-183.33.59.236:8686 # 死链
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-171.8.84.159:8800 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-42.227.145.18:7000 # 死链
-123.114.99.216:4022 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-42.227.145.18:7000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-42.227.145.18:7000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-42.227.145.18:7000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-42.227.145.18:7000 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-42.227.145.18:7000 # 死链
-111.199.0.60:8686 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
-218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
-112.66.97.90:8888 # 死链
-114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
-111.167.17.186:5002 # 死链
+118.113.31.67:666
+125.69.144.126:4022
+175.152.138.180:6066
+171.223.74.24:4000
+182.151.187.121:8888
+171.223.227.105:8888
+139.200.68.178:8888
+182.131.66.142:8888
+118.112.88.134:4022
+171.223.227.49:8888
+101.204.79.4:2715
+125.71.212.207:8000
+171.223.74.227:4000
+110.188.78.246:8086
+110.185.202.120:8086
+112.193.145.122:8888
+221.237.142.26:8888
+171.213.114.141:8888
+171.212.112.10:8888
+222.209.55.21:8888
+182.131.65.247:8888
+119.4.127.81:8888
+117.139.15.5:8888
+171.213.114.169:8888
+171.213.114.50:8888
+171.212.112.129:8888
+171.223.74.50:4000
+47.108.59.205:5010
+125.70.180.68:8123
+101.204.204.179:4022
+171.223.74.75:4000
+125.71.212.214:8000
+47.108.56.164:5985
+171.223.92.41:7788
+119.4.183.33:666
+182.139.214.254:8888
+101.207.155.6:8888
+222.209.232.235:1880
+222.212.97.241:8888
+112.193.61.81:4022
+171.217.240.132:5000
+182.151.184.170:8086
+118.113.212.47:1880
+47.108.73.140:8097
+118.116.13.181:4022
+118.116.15.21:1880
+221.237.145.131:8123
+171.212.112.104:8888
+182.148.141.159:4022
+171.223.74.191:4000
+171.223.74.229:4000
+110.184.144.177:6066
+112.193.247.213:8888
+182.139.212.25:8888
+175.152.138.175:6066
+175.152.138.143:6066
+222.211.99.64:4022
+222.211.99.59:4022
+101.207.186.210:8888
+110.185.70.246:8888
+139.200.87.94:8888
+171.212.113.106:8888
+171.88.40.201:7788
+171.217.241.153:5000
+175.152.138.208:6066
+222.212.74.252:666
+175.152.138.131:6066
+139.200.78.202:8688
+139.200.68.234:8888
+139.200.68.208:8888
+222.211.240.84:8800
+110.185.70.28:8888
+171.212.121.50:8888
+101.204.22.60:8888
+119.4.65.135:8888
+101.204.205.60:4022
+139.200.67.187:8888
+182.140.110.199:5050
+222.211.98.33:4022
+171.217.240.68:5000
+112.193.42.100:666
+175.152.168.28:4022
+175.152.251.104:4000
+171.88.144.65:4022
+171.217.241.222:5000
+182.131.66.58:8888
+139.200.88.51:8888
+222.211.240.117:8800
+125.69.99.160:7788
+221.237.140.170:8888
+175.152.113.24:4022
+171.217.241.94:5000
+101.207.24.220:666
+110.184.144.31:6066
+182.148.115.179:2345
+171.213.114.142:8888
+101.207.152.21:8888
+139.200.66.231:8888
+101.204.23.111:8888
+222.212.97.73:8888
+139.200.67.116:2122
+171.217.241.139:5000
+139.200.73.136:8688
+125.70.82.141:6066
+61.157.52.147:666
+182.148.78.29:8086
+139.200.87.110:8888
+125.69.99.217:7788
+175.152.113.43:4022
+171.212.255.191:7788
+101.204.150.212:8888
+222.211.240.11:8800
+171.88.145.159:4022
+171.212.115.117:8888
+222.212.97.14:8888
+171.214.211.250:4022
+171.223.122.95:4022
+171.212.121.100:8888
+8.137.147.0:9000
+221.237.143.58:8888
+221.237.139.164:7788
+139.200.67.5:8888
+139.200.67.183:8989
+175.152.146.242:1111
+171.217.145.87:4022
+101.204.216.227:2715
+175.152.138.162:6066
+8.137.57.12:9000
+8.137.94.214:9000
+8.137.175.78:9000
+101.207.154.165:8888
+8.137.61.150:9000
+47.108.183.183:9000
+8.137.175.144:9000
+47.108.88.22:9000
+8.137.82.65:9000
+8.137.176.198:9000
+222.211.240.74:8800
+47.108.186.110:9000
+8.137.90.200:9000
+8.137.169.95:9000
+8.137.161.139:9000
+182.148.176.237:4022
+171.223.122.17:4022
+222.209.123.113:8060
+119.4.183.139:666
+ha.sskra.com:9999
+8.137.96.121:9000
+125.69.102.48:8888
+222.212.39.111:9999
+171.212.112.48:8888
+175.152.57.83:9999
+101.204.19.30:2715
+101.207.152.170:8888
+139.200.68.73:8888
+222.211.138.49:9999
+218.89.225.3:8800
+101.207.222.160:666
+171.88.68.54:7088
+222.212.164.212:666
+171.212.112.180:8888
+222.210.209.192:10086
+139.200.77.44:8688
+218.88.4.26:4022
+175.152.57.7:9999
+125.70.83.192:9999
+175.152.57.133:9999
+171.221.44.206:7088
+101.204.30.106:2715
+139.200.88.163:8888
+139.200.68.79:6262
+171.88.164.101:4000
+218.89.225.20:8800
+101.204.171.45:666
+110.185.99.140:4000
+110.185.99.125:4000
+119.4.69.120:2715
+118.114.76.31:8022
+222.211.138.16:9999
+218.89.234.235:7088
+171.88.68.68:7088
+175.152.138.53:6066
+222.211.136.72:9999
+222.211.136.71:9999
+118.113.134.220:4022
+139.200.88.177:8989
+101.207.191.250:8888
+112.193.74.50:9977
+222.209.122.250:4022
+139.200.67.225:8888
+101.207.0.135:2715
+222.212.79.164:666
+171.213.114.156:8888
+222.211.99.63:64444
+home.alphauncle.com:2715
+222.211.98.247:64444
+222.211.98.169:64444
+101.207.154.172:2715
+218.89.225.103:8800
+222.211.98.134:64444
+222.211.98.150:64444
+222.211.98.243:64444
+125.70.222.204:9999
+222.209.115.176:8192
+125.70.83.244:9999
+182.149.230.2:9999
+119.4.149.248:2715
+171.88.68.152:7088
+182.131.66.190:8888
+182.139.212.244:8888
+222.210.218.116:8188
+110.191.246.245:4022
+222.209.48.107:8188
+110.184.115.71:4022
+110.191.253.117:8188
+222.211.99.213:4022
+118.112.96.64:8188
+222.211.98.152:4022
+175.152.140.60:2715
+112.193.74.50:9966
+110.185.200.231:8188
+125.70.83.160:9999
+182.149.117.155:8190
+175.152.57.241:9999
+125.70.222.163:9999
+125.71.74.195:4022
+182.138.90.113:4022
+222.210.87.195:9999
+112.193.74.50:9988
+182.131.66.106:8888
+139.200.68.148:8888
+171.213.47.48:8888
+139.200.88.245:8888
+101.207.0.104:8888
+175.152.94.158:1111
+175.152.101.80:17777
+171.88.144.161:8899
+118.114.76.25:8022
+175.152.57.38:9999
+175.152.28.242:4022
+221.237.190.115:4022
+175.152.251.119:1111
+125.70.80.245:9999
+61.139.24.99:4022
+125.70.83.213:9999
+183.222.15.202:4321
+118.112.62.136:9999
+171.213.45.81:10000
+171.213.45.82:10000
+110.185.70.217:8888
+171.213.114.112:8888
+182.131.65.223:8888
+175.152.45.190:8888
+175.152.57.197:9999
+182.151.111.216:8888
+222.211.98.43:64444
+171.88.144.85:8899
+171.221.26.105:10000
+171.221.26.106:10000
+175.152.57.63:9999
+182.138.175.144:9999
+222.212.226.126:9999
+222.212.226.15:9999
+139.200.75.226:4022
+221.237.142.124:3000
+101.204.121.82:2715
+125.69.99.120:7788
+221.237.141.166:8888
+175.152.45.156:8888
+171.213.114.210:8888
+171.213.114.49:8888
+139.200.68.104:8888
+139.200.67.231:8888
+175.152.102.101:2715
+222.209.28.237:64444
+222.209.29.154:64444
+222.211.240.229:8800
+222.211.98.176:64444
+182.139.110.126:8888
+222.211.98.185:64444
+222.211.98.162:64444
+222.211.99.123:64444
+110.184.144.37:9999
+110.184.144.115:9999
+110.184.144.126:9999
+171.213.114.237:8888
+112.193.74.74:9977
+101.207.1.65:2715
+110.188.32.15:3344
+139.200.68.182:8989
+171.221.157.173:4022
+110.184.144.80:9999
+175.152.199.53:4022
+182.139.214.153:8888
+182.151.111.230:8888
+182.139.110.122:8888
+118.113.150.189:10000
+139.200.68.190:8989
+182.148.93.74:10000
+110.184.144.104:9999
+47.108.204.83:8188
+221.237.114.173:8188
+112.193.74.74:9966
+182.149.112.220:65535
+182.139.212.37:3000
+182.149.113.25:65535
+221.237.171.24:4022
+182.148.115.145:8188
+118.113.43.18:4022
+175.152.142.227:2715
+118.114.17.173:10000
+112.193.74.62:9988
+110.191.253.155:8188
+182.138.228.78:4022
+171.213.114.235:8888
+182.151.111.234:8888
+101.207.163.7:4022
+118.114.17.172:10000
+171.214.250.77:8188
+182.140.111.247:5050
+222.209.136.209:10086
+125.70.35.113:10000
+125.70.35.112:10000
+182.149.117.186:8060
+182.149.199.201:4022
+61.139.65.84:8188
+171.221.15.224:8188
+118.114.96.54:8989
+101.204.39.118:8888
+222.209.173.69:7088
+112.193.74.185:4022
+218.89.224.72:8800
+118.122.106.208:7788
+222.212.76.156:2180
+125.70.243.144:15200
+139.200.88.194:8888
+118.122.106.208:7088
+182.151.111.236:8888
+182.139.213.233:8888
+125.71.212.231:15200
+221.237.137.55:4022
+222.209.140.20:4000
+139.200.88.241:8888
+182.131.65.56:8888
+119.4.68.87:4022
+171.223.92.56:7088
+218.6.238.242:10000
+171.88.68.101:7088
+125.70.35.16:10000
+221.237.37.235:8833
+125.70.35.17:10000
+118.113.42.180:3456
+139.200.67.90:6262
+118.114.54.24:4000
+171.213.114.6:8888
+139.200.67.78:6262
+222.211.241.152:8800
+182.151.111.244:8888
+119.4.148.131:2715
+125.71.134.173:4022
+175.152.0.187:4000
+118.113.41.106:4022
+112.193.74.240:4022
+118.113.150.250:10000
+112.193.74.251:4022
+119.4.68.139:8888
+119.4.179.55:8888
+139.200.74.32:4022
+47.108.135.171:8001
+118.114.54.23:4000
+47.108.141.2:8001
+182.151.111.247:8888
+171.213.114.106:8888
+101.204.172.28:8888
+182.148.93.86:5022
+175.152.138.79:6066
+175.152.138.100:6066
+182.151.168.13:5888
+139.200.88.182:2123
+139.200.88.183:2123
+139.200.87.100:2123
+112.193.69.160:8888
+101.204.204.73:4022
+125.70.35.74:10000
+175.152.103.107:8888
+125.70.35.75:10000
+171.213.114.67:8888
+139.200.88.251:8888
+171.213.114.163:2123
+125.71.134.130:4022
+175.152.116.151:8888
+222.211.241.220:8800
+182.139.110.49:8888
+112.193.74.234:4022
+171.213.114.143:8888
+www.xcarchain.com:8888
+xcarchain.com:8888
+171.213.114.75:8888
+171.213.114.163:8989
+171.213.114.148:8888
+182.139.111.129:8888
+171.213.114.249:8888
+175.152.101.127:8888
+101.204.48.86:4000
+171.223.230.78:10000
+171.213.114.23:8888
+182.140.98.101:5050
+175.152.103.22:8888
+171.213.114.170:8888
+112.193.146.94:8888
+171.223.230.80:10000
+175.152.102.144:8888
+218.89.224.82:8800
+171.213.114.247:8888
+112.193.48.87:4000
+118.113.150.177:10000
+175.152.138.130:6066
+171.213.114.234:8888
+171.213.114.22:8888
+175.152.76.93:8888
+171.88.41.187:4022
+183.220.20.17:4321
+101.204.22.164:2715
+175.152.103.14:2715
+221.237.9.135:9999
+118.113.253.199:4000
+175.152.138.133:6066
+175.152.138.114:6066
+101.204.28.52:8888
+171.216.141.247:4022
+112.193.74.131:4022
+125.70.222.109:9999
+125.69.99.177:7788
+218.89.224.210:8800
+182.140.111.175:5050
+125.71.133.100:4022
+182.140.110.25:5050
+125.70.160.139:4000
+182.151.234.66:9999
+182.151.234.107:9999
+110.184.144.7:9999
+175.152.57.100:9999
+175.152.57.169:9999
+221.237.8.169:8800
+182.139.111.198:8888
+101.207.190.167:2715
+119.4.151.136:8888
+139.200.88.42:8888
+222.209.51.95:8800
+139.200.88.149:8888
+119.4.229.202:4022
+119.4.229.60:4022
+101.204.204.171:4022
+125.69.146.83:4022
+125.70.163.86:9999
+171.217.240.218:5000
+182.151.234.29:9999
+125.70.81.102:9999
+125.70.81.118:9999
+139.200.66.83:8888
+112.193.49.219:4000
+125.69.146.70:4022
+110.184.144.5:6066
+118.122.106.183:7788
+125.70.163.19:9999
+125.71.119.249:8060
+61.139.116.208:4000
+139.200.88.58:8888
+218.89.225.135:8800
+112.193.68.253:8888
+171.217.241.237:5000
+139.200.88.178:8888
+139.200.68.221:8888
+183.220.107.138:4022
+182.138.203.83:8888
+182.139.110.164:8888
+182.148.13.81:9999
+125.69.145.185:4022
+222.209.55.206:8888
+119.4.84.143:4000
+139.200.78.102:4022
+125.71.164.143:6868
+125.71.119.123:8060
+182.139.110.79:8888
+218.89.225.92:8800
+119.4.65.161:8888
+118.114.188.210:8686
+119.4.248.100:4022
+222.210.164.59:8000
+119.4.248.164:4022
+101.206.92.14:4022
+182.148.29.151:4022
+101.207.189.232:8888
+171.212.113.64:8888
+183.222.58.112:888
+139.200.68.126:8888
+171.212.112.9:8888
+175.152.52.152:4000
+118.113.234.46:4022
+182.139.110.166:8888
+222.212.223.77:8000
+119.4.229.16:4022
+101.204.204.252:4022
+110.191.244.86:4022
+101.207.154.213:8888
+218.89.238.78:8888
+218.89.225.214:8800
+182.131.65.59:8888
+139.200.73.187:8688
+222.212.223.67:8000
+182.138.142.187:5555
+112.193.60.64:4022
+222.209.186.134:8088
+182.131.66.137:8888
+101.204.28.223:8888
+218.89.225.64:8800
+118.113.133.9:8888
+112.193.74.227:4022
+183.220.20.17:4000
+175.152.55.235:4000
+139.200.66.252:8888
+222.211.241.68:8800
+118.113.133.31:8888
+182.131.65.164:8888
+139.200.88.26:8888
+182.139.110.78:8888
+118.113.25.54:666
+61.157.72.159:8000
+222.209.186.240:8088
+125.69.145.25:4022
+101.207.166.205:8888
+182.139.111.253:8888
+139.200.66.35:8888
+139.200.66.232:8888
+182.148.71.5:8800
+182.139.204.138:8888
+222.212.220.111:8000
+61.157.72.136:8000
+175.152.138.89:6066
+118.112.60.48:6066
+118.112.63.173:6066
+119.4.71.27:8888
+139.200.88.39:8888
+182.131.65.54:8888
+218.89.225.150:8800
+222.209.187.25:8088
+182.139.111.141:8888
+119.4.122.140:4000
+171.88.107.122:8888
+182.139.110.17:8888
+221.237.15.27:4443
+171.88.64.229:3000
+117.176.241.206:11111
+175.152.54.124:4000
+125.70.121.13:8000
+222.211.138.213:5000
+171.88.107.219:8000
+125.69.145.160:4022
+171.223.36.60:4200
+125.69.139.3:8880
+110.184.115.206:4022
+222.211.241.98:8800
+110.184.200.247:8000
+125.71.115.254:10100
+182.131.66.233:8888
+139.200.66.69:8888
+182.138.178.8:10086
+221.237.28.103:666
+118.113.219.3:3000
+118.112.90.37:55555
+183.223.92.45:8000
+171.88.107.216:8000
+171.214.201.159:5000
+118.113.27.151:666
+101.207.158.137:5000
+175.152.147.7:4000
+222.209.122.32:666
+125.70.163.161:9999
+222.209.187.92:8088
+119.4.120.25:4000
+171.214.207.164:8888
+171.221.81.209:6000
+175.152.79.51:8888
+139.200.67.254:8888
+182.148.28.189:9966
+222.211.240.107:8800
+182.148.187.8:4022
+182.131.66.67:8888
+222.209.122.128:4443
+118.113.47.171:4022
+118.113.217.198:3000
+182.149.98.135:55555
+125.69.145.72:4022
+175.152.109.193:5000
+171.221.75.190:5000
+171.217.5.129:4000
+182.139.177.184:9999
+60.255.72.119:4022
+222.211.240.248:8800
+218.88.50.105:8089
+175.152.57.42:9999
+118.114.98.201:4022
+175.152.116.158:8888
+182.138.220.161:8888
+125.69.144.52:4022
+222.209.208.234:7788
+175.152.118.239:8888
+139.200.68.183:8888
+171.88.21.50:1880
+118.113.156.138:3000
+222.209.123.81:4443
+118.113.235.147:55555
+222.212.32.126:5000
+125.70.123.179:8000
+125.70.121.51:8000
+182.139.177.110:5000
+218.89.232.196:4022
+218.6.235.42:9999
+182.150.185.67:9999
+118.112.63.140:9999
+182.148.15.250:9999
+175.152.57.146:9999
+175.152.57.196:9999
+171.88.137.250:5555
+218.88.106.165:10086
+222.209.186.244:8088
+118.113.235.180:4022
+182.131.65.58:8888
+218.89.225.86:8800
+171.88.64.179:8888
+118.112.148.177:58888
+116.169.12.154:8888
+221.237.36.228:8888
+125.70.120.117:3000
+110.184.115.141:55555
+101.204.121.154:8888
+110.188.32.102:4022
+171.88.141.213:4000
+221.237.143.4:4022
+110.184.200.197:8000
+171.217.35.226:8000
+112.193.5.13:5000
+171.221.75.143:5000
+www.rongz.top:9999
+222.209.140.215:4000
+118.112.62.175:5000
+171.88.3.86:8688
+118.113.235.197:4022
+118.112.61.97:9999
+118.113.110.123:8199
+118.112.63.236:9999
+182.148.15.245:9999
+221.237.190.61:9999
+112.193.74.228:4022
+171.213.15.62:4022
+171.212.112.12:8888
+171.221.41.176:9999
+171.223.106.144:8189
+222.209.123.201:8190
+222.210.162.221:8189
+175.152.57.85:9999
+222.210.162.222:8189
+221.237.169.141:8189
+222.209.123.201:8189
+182.139.80.134:8189
+222.211.226.17:8188
+182.138.148.74:8188
+118.112.55.136:8188
+222.210.41.184:8188
+171.212.138.86:8188
+222.209.122.222:8188
+182.151.98.25:8188
+182.139.80.134:8188
+118.113.234.209:8188
+182.149.98.118:8188
+171.216.155.206:8188
+117.174.25.254:8188
+171.214.195.183:8188
+118.112.95.115:8188
+125.71.130.124:8188
+222.209.187.91:8088
+kms.sskra.com:9999
+222.209.49.22:8088
+118.112.48.52:8178
+175.152.57.73:19999
+118.112.48.41:8178
+125.70.160.198:4000
+171.88.22.147:4022
+139.200.66.117:8888
+222.211.240.102:8800
+171.212.112.35:8888
+171.88.64.177:8888
+112.193.246.250:8888
+101.204.42.216:8890
+112.193.9.94:5555
+171.88.64.254:3000
+118.112.95.110:8089
+223.87.235.89:5000
+118.112.90.38:55555
+110.184.115.21:4022
+125.70.83.243:5000
+125.69.58.239:8000
+101.204.40.83:5003
+112.193.163.141:5000
+125.71.212.156:8000
+182.149.243.71:5000
+175.152.57.84:19999
+124.161.55.145:8848
+118.113.136.151:4022
+175.152.22.123:4022
+171.212.214.205:8089
+60.255.72.111:4022
+182.148.13.105:9999
+125.71.158.130:6666
+118.114.196.219:9999
+221.237.137.149:9999
+118.112.63.219:9999
+118.112.63.224:9999
+110.184.145.32:9999
+175.152.57.203:9999
+139.200.66.162:8686
+182.150.185.210:9999
+171.213.15.151:4022
+182.148.15.34:9999
+118.113.235.138:9999
+171.212.170.81:8088
+175.152.138.45:8001
+171.217.58.79:8088
+222.209.187.133:8088
+125.69.58.136:8000
+171.217.58.76:8088
+110.188.78.227:9988
+222.209.187.134:8088
+218.89.233.10:8088
+222.212.43.118:8089
+175.152.168.181:4022
+221.237.143.189:5555
+221.237.8.26:8033
+222.210.153.38:8888
+218.89.225.97:8800
+118.112.90.86:3456
+221.237.92.244:8888
+101.207.3.142:8888
+221.237.36.28:8888
+171.212.112.31:8888
+218.89.253.42:7088
+222.210.153.38:7088
+110.185.219.63:7088
+222.209.122.38:7088
+125.71.119.143:7088
+125.70.174.12:7088
+182.150.169.232:7088
+118.114.76.152:4022
+125.69.58.218:8000
+125.69.58.214:8000
+125.69.58.231:8000
+125.69.58.210:8000
+110.185.211.144:6666
+171.212.212.64:8000
+118.113.24.99:666
+125.69.58.126:8000
+118.113.235.3:55555
+118.116.81.202:8000
+125.69.58.201:8000
+171.212.214.157:8089
+171.88.142.197:4000
+171.217.146.81:4022
+171.88.136.10:5555
+125.69.147.51:4022
+182.150.186.34:9999
+110.185.70.185:5555
+182.151.169.235:9999
+118.112.95.90:8089
+182.151.169.194:9999
+175.152.57.136:9999
+175.152.57.149:9999
+110.184.115.140:9999
+222.211.139.150:9999
+139.200.86.244:8888
+171.214.203.21:8888
+222.209.187.120:8088
+171.212.112.125:8888
+139.200.67.69:8686
+171.212.170.58:8088
+171.212.171.19:8088
+171.212.214.135:8089
+171.212.171.51:8088
+139.200.73.72:8688
+118.113.116.222:4022
+118.113.179.230:4022
+218.89.244.188:4001
+171.212.114.44:8888
+118.114.76.152:6699
+125.69.58.96:8000
+125.69.58.99:8000
+125.69.58.203:8000
+112.193.71.0:8888
+118.112.192.190:8688
+139.200.74.79:4022
+171.88.175.10:8888
+182.139.111.94:8888
+171.88.136.85:5555
+171.88.182.162:8888
+218.89.224.175:8800
+182.138.136.74:8888
+118.113.217.53:3000
+118.116.125.250:4022
+171.212.212.121:8000
+171.217.146.172:55555
+222.209.182.48:8089
+182.148.31.26:9988
+125.69.58.196:8000
+125.69.58.187:8000
+125.69.58.139:8000
+171.212.223.190:4022
+139.200.73.196:8688
+171.221.88.67:8443
+125.70.223.124:4022
+175.152.57.18:9999
+175.152.57.31:9999
+222.212.32.115:9999
+118.112.62.101:9999
+222.212.32.39:9999
+125.70.163.50:9999
+125.69.147.30:9999
+182.138.87.72:9999
+175.152.57.164:9999
+220.166.249.17:4200
+101.204.50.78:4000
+222.209.187.29:8088
+182.149.150.242:8888
+182.149.150.239:8888
+171.88.64.68:8888
+220.166.250.227:8443
+222.211.240.82:8800
+101.207.0.14:8888
+182.138.221.5:8888
+171.212.112.34:8888
+182.149.151.10:8888
+118.113.255.77:4022
+125.69.145.228:4022
+171.88.21.70:1880
+171.216.140.20:4022
+171.217.146.218:55555
+118.116.81.215:8000
+125.70.83.145:4000
+110.185.65.55:666
+125.69.58.194:8000
+125.69.58.186:8000
+125.69.58.171:8000
+125.69.58.169:8000
+171.223.61.172:6666
+182.139.68.113:58888
+171.217.157.203:58888
+182.138.86.145:9999
+182.149.245.236:9999
+125.69.147.85:9999
+175.152.57.231:9999
+175.152.57.129:9999
+171.223.25.184:5555
+222.212.166.203:4022
+182.148.14.154:9999
+101.206.103.62:8088
+139.200.77.47:8688
+222.209.187.63:8088
+101.206.103.59:8088
+125.69.58.52:8000
+221.182.63.36:10086
+xxseelexx.synology.me:8443
+119.4.122.207:4000
+171.213.46.213:4022
+61.157.1.80:8443
+222.210.153.74:8888
+101.207.0.136:8888
+175.152.57.25:9999
+171.221.170.140:8888
+182.139.111.217:8888
+218.89.225.44:8800
+222.209.122.127:4443
+112.193.192.28:9998
+182.148.12.186:9999
+182.138.221.25:8888
+182.138.228.183:9966
+182.138.228.183:9977
+119.4.83.105:4000
+125.71.169.193:9966
+171.221.88.27:4200
+221.237.137.154:55555
+171.221.25.236:4000
+125.69.58.235:8000
+125.69.58.232:8000
+222.209.173.244:58888
+222.209.187.17:8088
+222.210.223.83:3000
+175.152.57.26:9999
+171.88.162.145:4022
+175.152.57.92:9999
+182.148.12.239:9999
+125.69.145.86:9999
+171.214.201.201:9999
+125.70.82.243:9999
+171.214.201.150:9999
+182.150.185.120:9999
+61.157.92.26:8443
+118.113.159.252:4022
+118.114.121.52:19999
+112.193.61.249:4022
+125.70.173.91:4022
+222.209.187.38:8088
+182.138.228.183:9988
+182.139.110.209:8888
+182.138.160.167:9000
+182.138.221.39:8888
+125.69.138.190:8880
+175.152.22.110:4022
+175.152.142.49:8888
+139.200.88.40:8888
+222.211.163.108:8888
+182.138.221.226:8888
+118.113.217.195:3000
+182.138.160.205:9000
+223.87.235.89:4000
+182.138.90.68:55555
+118.113.159.230:4022
+118.112.192.200:4022
+125.69.58.51:8000
+125.69.58.55:8000
+125.69.58.54:8000
+125.69.58.184:8000
+118.112.60.33:9067
+119.4.82.154:9067
+125.71.69.200:4022
+218.88.86.49:8443
+118.114.196.152:9999
+182.148.15.226:9999
+171.214.227.195:9999
+171.214.227.176:9999
+171.214.227.174:9999
+175.152.57.116:9999
+118.116.11.152:19999
+118.113.179.11:58888
+118.113.139.218:4000
+139.200.75.247:4022
+175.152.57.37:19999
+175.152.169.224:4022
+118.116.121.110:8888
+139.200.68.114:8888
+218.89.224.24:8800
+171.88.143.166:4000
+139.200.88.23:8888
+118.113.30.126:4022
+101.204.42.194:4000
+101.204.42.134:4000
+112.193.122.18:1111
+182.138.221.46:8888
+182.138.221.158:8888
+110.184.203.149:3000
+139.200.66.7:8888
+101.207.166.255:8888
+118.113.234.35:55555
+125.69.58.180:8000
+125.69.58.170:8000
+125.69.58.175:8000
+171.216.141.125:4022
+125.69.58.78:8000
+125.69.58.82:8000
+171.88.137.8:5555
+118.116.80.3:7788
+175.152.57.52:9999
+175.152.57.188:19999
+171.214.226.136:9999
+171.217.89.178:8443
+171.88.145.30:4022
+110.185.70.2:5555
+125.69.144.248:9999
+175.152.57.2:9999
+61.157.59.125:9999
+182.148.15.46:9999
+110.185.202.50:8086
+61.157.92.63:8443
+171.88.142.177:4000
+118.113.252.33:4022
+110.185.65.89:4022
+171.88.136.89:5555
+222.209.187.121:8088
+171.223.198.46:4000
+182.138.221.37:8888
+139.200.86.201:8888
+139.200.86.202:8888
+101.207.186.118:8888
+182.131.66.23:8888
+171.221.170.210:8888
+110.184.115.152:3456
+139.200.78.87:4022
+112.193.63.67:4022
+218.89.225.47:8800
+110.191.186.5:6868
+222.210.59.18:8888
+110.184.186.68:4200
+125.69.58.147:8000
+171.213.37.16:8188
+222.211.96.14:8188
+61.157.49.33:8188
+171.221.61.187:8188
+171.213.37.34:8188
+222.211.105.46:8188
+222.212.96.144:8188
+222.212.65.179:8199
+222.211.105.45:8188
+110.185.65.71:8188
+221.237.105.20:8188
+118.116.38.26:8188
+221.237.114.159:8188
+222.211.105.47:8188
+118.113.13.57:8188
+171.223.200.124:8188
+118.113.47.224:8188
+112.193.137.28:8188
+118.112.48.34:8178
+171.221.88.231:4200
+118.112.192.85:4022
+dsm7.sskra.com:9999
+112.53.192.34:8077
+221.237.113.48:4000
+175.152.57.59:9999
+175.152.57.51:9999
+221.237.92.103:9999
+182.148.199.6:4022
+118.114.76.146:4022
+118.113.234.37:9999
+171.221.75.136:9999
+110.185.219.12:7088
+171.88.145.173:4022
+182.150.168.154:7088
+175.152.113.25:4022
+218.89.234.233:7088
+112.193.121.138:5555
+222.209.122.21:4443
+182.131.65.135:8888
+118.112.60.7:9999
+118.112.62.86:9999
+101.204.123.57:8888
+182.138.221.59:8888
+118.113.146.97:8888
+222.211.163.74:8888
+125.69.58.5:8000
+171.217.133.6:4022
+118.113.159.205:4022
+125.69.58.26:8000
+171.217.88.43:4000
+222.211.139.178:55555
+171.217.133.237:4022
+222.211.136.232:55555
+36.170.114.144:8808
+118.113.28.216:4022
+171.212.254.157:9999
+182.149.98.239:55555
+171.221.34.66:8888
+125.71.127.95:8086
+125.69.58.88:8000
+175.152.57.248:9999
+175.152.57.178:9999
+182.150.187.116:9999
+b.xubo.myds.me:9999
+218.88.86.15:4022
+xubo.myds.me:9999
+125.71.132.178:788
+182.138.90.112:9999
+118.112.90.40:4022
+110.184.146.177:9999
+222.212.72.181:8888
+222.211.162.244:8888
+222.212.226.146:9999
+110.184.146.243:9999
+175.152.57.72:9999
+175.152.57.189:9999
+125.69.145.103:9999
+171.223.197.90:4000
+118.114.120.153:4022
+171.217.59.124:8888
+218.89.225.169:8800
+139.200.66.22:8888
+118.116.15.33:8888
+139.200.66.220:8888
+222.212.166.172:8888
+101.207.189.141:8888
+221.237.15.199:4443
+221.237.171.209:8888
+125.71.126.93:4022
+171.216.141.55:4022
+171.214.224.191:55555
+171.217.146.226:55555
+118.122.105.58:4022
+171.217.145.196:4022
+125.69.58.23:8000
+125.69.58.13:8000
+171.217.166.47:4022
+110.185.240.246:55555
+171.88.121.205:4022
+110.184.136.226:6868
+171.88.144.241:4022
+175.152.53.97:4000
+175.152.138.141:6066
+110.184.144.74:9999
+175.152.57.199:9999
+222.209.208.234:4100
+118.112.90.246:9999
+110.184.146.219:9999
+222.210.57.200:9999
+222.209.122.86:4023
+171.88.142.158:4001
+171.88.40.63:4001
+222.212.226.222:9999
+118.113.255.15:4022
+171.217.131.246:4022
+119.6.47.71:8088
+182.138.146.58:4022
+183.221.104.180:1723
+125.71.170.200:8086
+119.6.47.83:8088
+182.138.237.24:4022
+175.152.142.39:8888
+171.221.117.22:4000
+221.237.171.225:8888
+222.209.232.18:8888
+171.212.176.97:5555
+182.138.221.26:8888
+218.89.224.115:8800
+171.213.11.88:55555
+125.69.58.146:8000
+125.70.174.32:4000
+125.71.193.183:55555
+125.69.58.152:8000
+125.69.144.89:55555
+175.152.138.128:6066
+125.70.174.5:4000
+171.88.144.180:4022
+175.152.138.112:6066
+171.214.227.124:9999
+175.152.57.195:9999
+222.210.162.249:6868
+221.237.190.27:4022
+171.212.150.135:19999
+101.204.216.242:8888
+175.152.147.51:1111
+175.152.113.28:4022
+118.113.212.142:1880
+175.152.57.80:9999
+171.214.227.23:9999
+171.214.227.54:9999
+175.152.57.213:19999
+118.113.29.169:8888
+125.70.81.135:97
+222.209.187.109:8088
+182.150.240.167:8082
+218.89.225.134:8800
+222.212.72.176:8888
+125.69.139.39:8880
+175.152.57.210:9999
+175.152.57.109:9999
+125.69.58.42:8000
+125.69.58.178:8000
+182.140.123.150:6868
+182.138.221.45:8888
+182.139.110.113:8888
+125.69.58.185:8000
+125.70.223.14:19999
+118.113.157.107:4022
+175.152.57.103:19999
+118.116.51.168:55555
+118.112.63.207:55555
+125.71.193.130:55555
+125.71.193.175:55555
+118.113.234.107:4022
+222.210.186.222:888
+222.209.187.111:8088
+222.209.232.214:8888
+175.152.113.27:4022
+171.88.144.64:4022
+171.217.133.157:4022
+110.185.202.169:50002
+171.223.190.175:4022
+222.210.209.67:888
+175.152.57.76:9999
+175.152.57.194:9999
+118.112.60.250:9999
+182.151.234.76:9999
+61.157.49.184:8688
+125.70.82.28:6066
+171.217.135.139:1111
+112.193.164.81:10001
+112.193.164.13:10001
+112.193.164.86:10001
+171.88.162.220:4022
+171.88.162.219:4022
+222.212.76.250:4022
+221.237.145.25:4000
+125.70.81.183:9067
+112.193.123.90:5555
+110.184.112.213:4022
+175.152.57.133:19999
+139.200.88.36:8888
+118.114.222.192:8888
+222.210.57.12:8888
+182.139.110.77:8888
+119.4.64.171:8888
+125.71.159.127:6666
+118.113.192.139:4022
+118.113.192.181:4022
+125.69.145.154:4000
+182.138.87.40:8888
+110.185.39.59:8888
+222.211.240.87:8800
+125.69.58.183:8000
+125.69.137.162:8880
+171.88.182.189:8888
+118.112.98.195:8888
+125.69.58.217:8000
+125.69.58.222:8000
+182.139.215.51:5555
+125.70.81.209:6066
+171.216.65.135:4022
+171.221.75.95:55555
+220.166.249.79:4000
+118.113.230.43:4022
+182.138.179.122:888
+118.113.179.86:58888
+139.200.73.138:4022
+125.71.114.190:4000
+110.184.136.112:6868
+175.152.138.122:6066
+182.151.234.122:9999
+175.152.57.3:9999
+222.212.226.159:9999
+218.88.51.207:1111
+118.112.48.96:8178
+118.112.48.100:8178
+118.112.48.36:8178
+222.209.187.79:8088
+222.210.52.57:8008
+125.70.174.50:4000
+222.211.114.50:8482
+218.89.224.113:8800
+112.193.245.224:8888
+222.209.232.160:8888
+221.237.171.244:8888
+182.148.78.204:8888
+171.221.170.35:1880
+182.139.110.153:8888
+171.88.182.178:8888
+118.113.179.99:58888
+110.188.78.166:8888
+118.113.29.224:8888
+125.69.58.135:8000
+118.113.54.82:8848
+110.185.10.194:6666
+139.200.85.88:9090
+125.69.58.137:8000
+221.237.26.114:6868
+222.209.121.224:888
+118.114.97.100:888
+175.152.57.144:9999
+175.152.57.118:9999
+171.88.20.81:4022
+110.184.144.47:9999
+171.217.167.154:4022
+182.151.234.48:9999
+182.151.234.62:9999
+171.223.105.75:8189
+182.148.99.17:8177
+222.212.152.122:4443
+118.122.103.240:4022
+118.116.127.242:8888
+110.185.39.111:8888
+182.138.86.248:8888
+101.204.150.85:8888
+171.217.142.185:8000
+119.4.148.90:8888
+118.116.39.191:8888
+125.69.58.155:8000
+125.70.71.186:8888
+222.211.163.152:8888
+110.191.180.250:8888
+182.139.111.105:8888
+222.211.226.246:4022
+125.69.145.139:55555
+110.185.240.152:55555
+125.69.58.72:8000
+125.69.58.154:8000
+125.69.58.58:8000
+221.237.142.227:5555
+a.tanl.top:8008
+b.tanl.top:8008
+171.88.42.47:8888
+171.221.41.144:8888
+125.70.222.82:6066
+171.217.167.159:4022
+125.70.222.104:6066
+171.217.167.135:4022
+175.152.57.163:9999
+175.152.57.46:9999
+171.88.141.241:4000
+171.217.30.83:6868
+118.112.148.14:58888
+118.113.52.250:8848
+125.71.158.97:6666
+61.157.59.129:9999
+222.210.45.90:8008
+182.138.177.114:8688
+222.209.187.103:8088
+222.210.153.89:8888
+222.210.57.240:8888
+171.221.88.131:4022
+112.193.120.68:5555
+221.237.112.90:4000
+139.200.66.82:8888
+171.88.182.191:8888
+118.113.29.52:8888
+175.152.3.101:5555
+171.88.42.22:8888
+171.217.59.140:8888
+101.204.173.32:8888
+110.184.115.77:55555
+125.69.58.243:8000
+125.69.58.241:8000
+125.69.58.240:8000
+222.209.182.168:8000
+112.193.164.48:4000
+182.151.187.153:5555
+171.221.75.82:55555
+220.166.249.81:4022
+110.184.147.154:55555
+125.70.55.232:58888
+125.70.55.233:58888
+119.4.229.245:4022
+171.217.88.153:4000
+125.70.181.206:4000
+171.88.3.19:8688
+182.139.23.231:10000
+125.71.114.18:4022
+182.150.187.214:9999
+125.69.58.109:8000
+118.113.254.210:4022
+125.69.58.102:8000
+125.69.58.104:8000
+112.193.60.92:4022
+171.221.41.243:9999
+125.71.189.207:8008
+175.152.57.200:19999
+182.148.29.167:4022
+182.138.221.13:8888
+175.152.53.123:5555
+110.185.65.129:4443
+110.185.36.100:9090
+125.69.58.119:8000
+125.69.58.130:8000
+125.69.58.128:8000
+125.69.58.131:8000
+118.112.90.27:4000
+222.211.241.29:8800
+118.112.98.154:8888
+118.112.201.90:58888
+182.131.66.8:8888
+118.113.29.173:4022
+110.185.199.139:8888
+118.114.208.255:8888
+118.112.201.94:58888
+118.112.201.91:58888
+125.71.157.243:6666
+139.200.78.92:4022
+182.138.86.133:8888
+125.70.237.63:8888
+171.221.81.238:8000
+119.4.149.151:8888
+182.138.221.0:8888
+118.114.197.53:8888
+110.191.244.242:9988
+125.69.58.94:8000
+222.211.162.100:8888
+222.209.187.160:8088
+125.70.82.156:55555
+110.191.180.213:50002
+125.69.145.20:55555
+139.200.29.74:5555
+112.193.120.73:5555
+118.113.145.180:9527
+118.113.157.248:10000
+118.113.179.98:4022
+221.237.92.253:9999
+139.200.67.71:2121
+222.211.226.200:4022
+222.212.152.26:4443
+222.211.162.32:1880
+125.71.189.67:8008
+125.71.189.66:8008
+110.185.36.47:9090
+182.131.65.107:8888
+125.69.58.4:8000
+118.114.208.48:8888
+112.193.120.111:5555
+182.138.221.19:8888
+118.114.196.51:8888
+171.88.123.87:4022
+222.211.162.3:8888
+221.237.11.69:8000
+139.200.67.202:2121
+139.200.67.210:2121
+125.69.58.238:8000
+182.138.218.218:8000
+182.139.111.46:8888
+125.69.58.237:8000
+222.211.240.55:8800
+125.69.58.236:8000
+222.210.223.205:8000
+101.204.30.250:8888
+171.217.146.14:4022
+171.88.142.166:4001
+182.140.110.58:5050
+118.113.253.254:19999
+139.200.28.137:5555
+218.88.62.133:4022
+117.176.241.206:25000
+118.113.235.183:4000
+171.217.166.46:4022
+171.223.29.110:4022
+220.166.248.4:4022
+175.152.54.102:5555
+182.139.20.76:10000
+175.152.138.78:6066
+171.213.15.130:4022
+182.150.240.219:8082
+222.210.44.87:8008
+222.209.187.118:8088
+139.200.68.135:8686
+110.185.36.109:9090
+218.89.254.229:8888
+171.88.175.52:8888
+139.200.68.131:8686
+171.217.167.140:4022
+125.71.126.27:4022
+175.152.54.159:5555
+118.112.98.162:8888
+61.157.59.226:8888
+175.152.79.101:8888
+139.200.87.48:8888
+125.69.58.205:8000
+125.69.58.209:8000
+222.210.132.159:8000
+125.69.58.110:8000
+118.114.196.179:8888
+110.184.115.200:55555
+125.71.159.29:6666
+171.217.164.194:9090
+171.212.254.23:8888
+171.88.182.172:8888
+125.71.114.173:4000
+182.139.111.201:8888
+171.217.167.185:4022
+220.166.250.165:4022
+139.200.29.7:5555
+118.113.52.132:8848
+182.138.184.35:6666
+222.209.187.125:8088
+221.237.11.74:8000
+139.200.29.45:5555
+171.217.167.240:4000
+118.113.157.100:4022
+222.209.187.124:8088
+118.113.179.38:4022
+171.212.208.185:8008
+171.212.208.186:8008
+139.200.85.67:9090
+182.139.111.178:8888
+125.69.58.144:8000
+125.69.58.202:8000
+125.69.58.204:8000
+125.69.58.206:8000
+139.200.29.95:5555
+125.70.123.149:8000
+218.88.42.190:4022
+175.152.113.23:4022
+218.89.225.88:8800
+110.184.144.147:5555
+112.193.123.45:5555
+182.138.201.254:4022
+221.237.9.88:19999
+139.200.28.118:5555
+222.211.138.108:19999
+182.138.185.96:6666
+110.185.36.192:9090
+175.152.57.64:9999
+222.212.38.143:9999
+222.212.38.155:9999
+222.212.38.177:9999
+125.69.58.247:8000
+125.69.58.246:8000
+125.69.58.249:8000
+125.69.58.250:8000
+125.69.58.253:8000
+171.212.235.245:17777
+171.212.235.244:17777
+222.211.138.137:19999
+175.152.57.33:9999
+175.152.57.69:9999
+182.138.146.175:4022
+171.88.64.22:8888
+182.139.110.186:8888
+171.212.223.242:18888
+118.116.127.74:8888
+125.69.58.156:8000
+221.237.92.150:8888
+125.70.237.254:8888
+222.211.241.165:8800
+101.207.3.211:8888
+182.149.156.49:4022
+222.209.187.143:8088
+118.112.90.117:55555
+221.237.92.204:8888
+125.70.173.105:4022
+139.200.87.25:2121
+171.213.15.166:4022
+125.69.146.159:55555
+182.139.91.218:58888
+182.139.91.219:58888
+182.138.147.20:4022
+118.113.53.90:8848
+171.212.194.132:4022
+139.200.28.50:5555
+222.209.187.126:8088
+222.210.162.16:6868
+175.152.3.16:5555
+171.214.226.220:5555
+182.138.152.54:4022
+171.212.110.68:8000
+218.89.244.234:4001
+182.138.120.226:8888
+222.212.152.12:4023
+171.217.164.96:9090
+182.139.110.167:8888
+125.70.223.192:4022
+125.69.58.200:8000
+101.206.60.169:8888
+171.88.35.62:4022
+118.112.148.249:4022
+118.113.254.110:18888
+182.149.205.67:9080
+139.200.88.52:8686
+139.200.88.19:8686
+221.237.112.72:4000
+125.69.145.107:55555
+171.217.167.190:4022
+175.152.138.55:6066
+125.70.71.246:4022
+222.212.161.25:18888
+139.200.76.254:4022
+118.114.96.185:8999
+119.4.229.122:4022
+118.113.157.34:4000
+222.212.152.219:4443
+61.157.84.215:6868
+125.71.120.85:4022
+139.200.68.125:2122
+171.212.150.204:19999
+139.200.88.19:2122
+118.112.192.231:2016
+139.200.68.125:8686
+222.209.187.70:8088
+125.69.58.40:8000
+182.139.110.22:8888
+125.69.58.34:8000
+125.69.58.38:8000
+171.216.141.138:4022
+182.138.191.217:8888
+171.214.203.139:8888
+222.212.42.48:8000
+125.69.58.101:8000
+125.69.58.103:8000
+101.207.247.236:1111
+112.193.144.91:8888
+125.69.58.97:8000
+118.114.197.184:8888
+182.148.30.132:8888
+171.217.164.160:9090
+222.211.240.56:8800
+222.212.166.187:4022
+222.211.163.21:8888
+118.114.98.159:4022
+125.69.145.36:55555
+182.150.185.252:8888
+182.151.234.232:5555
+112.193.9.171:5555
+218.89.237.127:4022
+61.157.0.169:4000
+118.113.255.210:19999
+101.207.182.225:4022
+118.114.96.67:8999
+222.209.72.230:4022
+182.138.90.198:58888
+139.200.66.100:8686
+110.191.204.226:8686
+125.71.150.110:4040
+171.88.134.244:4022
+222.209.207.17:8899
+118.114.171.147:8686
+218.88.51.65:1111
+221.237.15.60:4443
+www.rosnas.com
+222.209.186.53:8088
+125.69.58.12:8000
+125.69.58.10:8000
+125.69.58.8:8000
+118.112.95.202:8000
+125.69.58.89:8000
+171.217.34.127:8888
+125.69.58.92:8000
+118.113.146.108:8888
+110.184.200.214:8000
+171.88.21.121:8888
+125.71.169.215:8888
+118.122.103.215:4022
+101.204.30.29:8888
+118.113.158.215:9080
+125.70.160.141:4000
+218.89.225.48:8800
+110.185.36.216:9090
+112.54.91.252:8888
+171.88.140.208:4000
+110.184.114.37:4000
+171.217.147.212:8818
+171.217.147.213:8818
+110.184.115.4:4022
+118.112.148.151:4022
+171.217.157.201:58888
+171.213.15.113:4022
+61.157.85.244:4022
+218.88.21.247:4000
+118.113.235.252:55555
+118.114.97.244:888
+139.200.29.94:5555
+222.211.167.112:4000
+110.184.147.171:5555
+221.237.15.56:4443
+125.71.126.136:5555
+171.217.81.246:8088
+125.69.145.45:4000
+222.209.49.27:8088
+171.217.81.230:8088
+125.69.58.160:8000
+125.69.58.176:8000
+125.69.58.161:8000
+171.212.194.255:19999
+171.221.41.29:8888
+119.4.128.85:4022
+221.237.37.27:8888
+222.212.185.197:8888
+222.210.57.41:8888
+139.200.66.148:2121
+171.217.132.25:4022
+118.113.212.53:8888
+182.138.121.40:8888
+110.185.44.38:4022
+125.70.180.114:4000
+222.211.241.175:8800
+110.185.36.10:9090
+110.184.114.172:4022
+182.138.160.221:8999
+125.71.169.220:5555
+171.88.118.244:8889
+222.210.41.91:55555
+118.114.97.212:888
+125.71.127.219:5555
+222.212.160.40:18888
+222.212.32.103:5555
+183.222.206.14:18097
+171.217.166.11:4022
+171.223.191.191:4022
+118.113.28.67:8200
+182.139.177.241:6066
+171.216.67.184:4022
+101.204.71.173:4022
+182.139.205.19:4022
+222.211.196.246:4022
+udpxy.home.coolhei.com:81
+221.237.190.84:9999
+118.114.171.212:8686
+125.69.146.195:9999
+182.138.160.221:8899
+171.217.35.98:8000
+118.113.73.120:8688
+110.185.70.115:5555
+171.212.170.32:8088
+171.212.170.30:8088
+125.71.115.207:8000
+171.212.234.127:17777
+171.212.170.16:8088
+171.212.234.59:17777
+125.69.58.14:8000
+125.69.58.39:8000
+118.113.230.123:19999
+171.213.39.65:4022
+171.213.39.112:4022
+125.69.138.228:8880
+221.237.36.156:8888
+171.88.106.133:8888
+101.206.60.6:8888
+182.139.111.107:8888
+171.212.254.90:8888
+218.89.224.145:8800
+125.71.133.226:8888
+171.223.61.126:6666
+110.191.244.43:5555
+118.113.158.114:4000
+119.4.122.156:5555
+119.4.127.39:4022
+110.191.180.44:4022
+171.217.145.196:55555
+61.157.52.32:8200
+61.157.52.108:8200
+118.114.97.93:888
+125.70.203.3:4040
+175.152.138.76:6066
+175.152.138.74:6066
+118.122.111.103:4022
+118.114.98.8:4022
+139.200.66.38:8686
+118.113.53.194:8848
+182.138.237.100:4000
+125.71.114.189:4000
+110.184.189.92:6004
+171.217.5.108:8123
+125.70.237.116:5555
+125.71.75.138:4022
+175.152.23.0:4022
+182.148.78.218:9988
+171.88.113.1:4022
+182.150.185.39:9999
+110.184.229.248:6666
+171.88.141.245:4000
+171.88.162.67:4022
+118.113.235.117:9999
+125.71.119.15:4443
+171.88.35.42:4022
+171.212.208.247:8866
+118.122.105.239:4022
+171.213.47.204:5555
+171.212.170.178:8088
+118.113.157.74:4022
+112.193.62.18:4022
+171.212.170.214:8088
+139.200.29.184:5555
+125.69.58.21:8000
+125.70.123.165:8000
+171.212.170.47:8088
+171.217.133.140:4022
+125.69.58.16:8000
+125.70.53.121:8888
+182.151.184.250:8888
+182.139.111.78:8888
+222.211.240.251:8800
+101.206.48.214:8888
+182.138.200.20:9080
+110.185.36.146:9090
+125.69.146.151:8888
+171.88.117.176:4022
+221.237.37.181:8888
+125.71.127.191:4022
+171.217.34.160:8888
+221.237.13.87:8888
+171.221.157.106:8200
+182.150.171.191:5555
+125.71.156.207:4000
+110.184.154.228:6666
+118.113.212.176:8888
+118.113.146.46:8888
+118.112.90.172:9999
+171.88.182.147:4022
+171.221.12.91:8096
+222.210.186.205:888
+125.69.144.5:55555
+125.71.135.140:8888
+125.69.58.251:8000
+125.71.115.246:8000
+125.70.53.18:8888
+125.69.58.22:8000
+182.139.152.48:55555
+171.88.106.25:8888
+171.216.140.203:8888
+171.217.58.23:8088
+171.217.81.159:8088
+171.217.81.10:8088
+175.152.57.16:9999
+175.152.138.61:6066
+175.152.138.3:6066
+110.188.32.231:1314
+182.150.168.218:5555
+182.148.75.229:888
+118.114.33.19:4022
+182.139.111.225:8888
+182.138.86.254:8888
+125.69.58.43:8000
+110.184.18.208:4022
+110.188.78.139:9988
+182.150.187.150:9999
+125.71.168.144:4022
+171.217.5.131:8123
+110.185.65.123:4443
+222.211.154.30:9999
+139.200.66.3:2121
+218.89.226.169:8888
+125.69.145.106:9999
+61.157.92.242:4000
+222.209.182.205:8000
+222.211.155.226:9999
+125.69.58.193:8000
+125.69.58.190:8000
+125.69.58.191:8000
+171.212.170.57:8088
+182.149.100.171:8000
+125.69.58.49:8000
+125.69.58.41:8000
+125.69.58.24:8000
+125.69.58.50:8000
+222.209.49.80:8088
+222.209.49.86:8088
+139.200.87.79:2121
+118.116.121.235:8888
+218.89.224.165:8800
+125.71.134.109:8888
+118.113.55.5:8848
+118.114.76.58:4022
+221.237.34.86:8888
+110.184.144.231:5555
+125.70.180.189:8123
+182.149.106.156:8888
+125.71.114.72:9080
+110.185.36.75:9090
+139.200.84.82:9090
+118.113.146.221:8888
+101.206.54.235:8888
+182.138.120.24:8888
+171.223.75.215:8888
+125.71.171.114:8888
+182.139.110.18:8888
+118.114.168.217:8888
+110.191.180.200:5555
+222.210.209.197:888
+171.223.229.227:19999
+222.209.182.79:55555
+125.70.181.220:8123
+171.88.143.8:4000
+171.88.115.169:6066
+171.221.129.73:55555
+118.113.157.64:4022
+171.213.44.241:8096
+110.185.42.110:8688
+118.114.200.186:5555
+182.148.183.58:4022
+182.148.183.60:4022
+182.148.253.206:4022
+110.184.114.193:8888
+118.114.33.238:4022
+171.88.143.190:4000
+118.116.82.30:4022
+119.4.229.69:8888
+118.113.254.168:4022
+125.69.144.205:9999
+118.114.196.82:9999
+221.237.15.105:4443
+125.71.133.68:8888
+125.71.126.46:8888
+171.214.227.246:9999
+171.214.224.177:9999
+182.138.201.26:9991
+175.152.81.25:9998
+125.71.169.86:9988
+125.71.114.187:9991
+125.71.114.162:9991
+139.200.29.198:5555
+171.88.14.197:8000
+171.212.170.125:8088
+118.113.6.174:4000
+171.217.4.117:8000
+175.152.57.101:9999
+125.71.221.202:7000
+171.217.35.179:8000
+171.212.170.144:8088
+171.217.4.189:8000
+118.122.111.68:4022
+218.89.225.204:8800
+171.88.42.173:8888
+182.148.199.98:8888
+221.237.34.36:8888
+182.138.86.233:8888
+125.71.159.152:6666
+220.166.202.97:8888
+182.149.107.50:8888
+110.184.114.204:8888
+139.200.67.149:8888
+119.4.229.96:8888
+171.223.199.159:8123
+125.71.156.87:4022
+182.150.187.216:8888
+61.157.30.150:8888
+61.157.30.190:8888
+118.114.188.203:8888
+118.114.120.159:4022
+182.138.179.241:8888
+61.157.30.71:8888
+112.193.121.60:5555
+182.138.178.79:888
+171.88.162.133:4022
+182.138.147.39:4022
+171.88.164.124:4000
+171.223.75.165:4022
+222.212.42.65:55555
+125.70.183.105:8123
+117.176.241.206:4022
+118.114.188.3:8686
+139.200.67.51:2121
+139.200.67.21:2121
+118.113.24.243:8200
+125.70.174.40:4000
+171.88.140.175:4000
+61.157.33.150:8888
+61.157.32.218:8888
+222.209.122.91:4443
+125.69.145.247:9999
+175.152.57.117:9999
+110.184.229.99:6666
+125.71.150.248:4040
+110.184.144.20:9999
+125.70.80.163:5555
+110.185.219.251:58888
+222.210.57.26:9999
+118.113.236.91:3333
+218.89.233.182:8088
+218.89.233.160:8088
+222.212.226.139:9999
+112.193.62.119:4022
+171.221.38.233:4022
+110.184.115.240:8888
+110.184.144.98:9999
+110.185.36.152:9090
+110.184.114.148:4000
+118.116.82.107:4022
+119.4.229.188:8888
+119.4.135.83:8000
+171.217.58.142:8088
+125.71.212.195:8000
+171.217.4.40:8000
+182.139.90.114:7000
+119.4.229.63:8888
+125.69.58.80:8000
+139.200.29.193:5555
+125.69.58.107:8000
+125.69.58.108:8000
+125.69.58.106:8000
+125.69.58.79:8000
+125.69.58.87:8000
+182.138.200.4:9080
+222.211.181.35:8811
+222.211.181.36:8811
+182.150.187.225:8888
+182.138.88.59:4040
+171.216.66.195:8888
+118.114.249.151:8888
+139.200.86.51:8888
+222.209.78.225:8888
+171.88.42.129:8888
+139.200.88.171:8888
+182.148.199.165:8888
+118.113.5.228:4000
+125.71.156.221:4000
+119.4.229.108:8888
+171.217.164.167:9090
+171.217.5.231:4000
+222.210.209.242:888
+171.223.191.232:4022
+118.113.217.131:8585
+182.148.149.34:4022
+171.223.199.235:8123
+110.184.115.147:55555
+182.139.152.89:55555
+171.88.142.183:4000
+125.71.171.70:5555
+125.71.134.36:8466
+125.71.166.25:8466
+110.185.219.64:8466
+171.217.30.3:8808
+222.212.98.169:4000
+171.88.115.190:4022
+171.88.150.139:4022
+125.70.82.101:5555
+118.116.125.91:4022
+222.209.186.28:8818
+221.237.137.206:9999
+110.191.246.168:4022
+171.221.41.152:9999
+171.213.13.204:4443
+118.112.90.139:4022
+171.217.166.40:4022
+171.217.166.44:4022
+125.69.58.179:8000
+112.193.1.6:8000
+118.112.123.138:8000
+125.69.58.189:8000
+175.152.57.183:9999
+182.138.185.243:4022
+125.69.58.112:8000
+171.212.170.88:8088
+61.139.115.66:7000
+220.166.250.47:4022
+220.166.250.46:4022
+112.193.62.20:4022
+171.223.199.48:8123
+125.69.58.140:8000
+171.212.122.87:8000
+171.212.171.24:8088
+125.71.212.233:8000
+171.212.171.156:8088
+175.152.57.171:9999
+175.152.57.45:9999
+125.69.58.142:8000
+221.237.114.0:4000
+171.221.88.178:4000
+182.148.183.17:6066
+171.88.35.57:4022
+222.211.162.13:8888
+118.114.249.215:8888
+182.138.87.13:8888
+171.223.199.103:8123
+221.237.30.53:4022
+139.200.84.124:9090
+222.209.78.102:8888
+221.237.30.60:4022
+182.139.205.253:9080
+222.209.136.89:8888
+171.217.166.217:9080
+110.184.115.209:8888
+139.200.86.99:8888
+118.114.222.202:8888
+118.113.229.27:4022
+118.114.168.146:8888
+110.185.36.201:9090
+218.89.225.54:8800
+101.204.222.84:4022
+171.88.144.145:8888
+171.216.141.232:8888
+118.112.192.137:4022
+221.237.137.160:55555
+125.71.171.22:4022
+125.70.175.233:4000
+171.88.140.190:4000
+171.217.5.108:4000
+110.184.225.170:6666
+125.70.160.12:4000
+110.184.197.57:6004
+125.71.157.18:3333
+222.209.121.230:888
+125.69.139.49:4022
+182.138.200.171:4022
+171.88.142.203:4000
+125.71.168.138:4022
+125.71.169.176:4022
+175.152.168.73:4022
+118.112.148.247:58888
+118.112.148.228:58888
+118.113.236.67:4000
+112.54.91.252:4022
+171.221.34.20:4022
+110.188.79.50:4022
+125.71.159.202:3333
+171.223.191.99:58888
+171.217.34.205:8686
+171.88.174.53:8123
+182.149.205.169:4000
+218.88.42.144:4022
+171.217.146.164:4000
+118.113.5.186:4000
+118.113.157.114:4022
+118.114.33.62:4022
+118.113.28.96:8200
+110.188.78.167:4022
+125.71.170.247:4022
+221.237.190.76:9999
+118.114.121.90:4022
+61.139.115.52:7000
+175.152.57.77:9999
+175.152.57.220:9999
+118.116.11.85:8100
+118.113.179.73:58888
+117.175.160.141:8100
+110.184.224.41:6666
+222.211.138.159:9999
+218.88.40.48:8000
+125.71.171.211:4022
+222.211.138.165:9999
+125.69.58.157:8000
+60.255.197.59:8088
+118.113.158.185:4022
+139.200.66.106:8686
+222.211.227.228:8000
+125.69.58.141:8000
+112.193.61.69:4022
+101.207.207.231:8000
+118.113.73.91:8688
+119.4.120.79:5555
+118.114.187.227:8000
+125.70.202.186:4040
+125.70.203.104:4040
+171.212.150.33:19999
+61.157.9.39:58888
+139.200.66.106:2121
+61.157.9.34:58888
+222.211.225.27:9080
+61.157.9.37:58888
+182.138.147.100:8888
+182.148.55.88:9001
+222.210.59.32:8888
+61.157.59.145:8888
+218.89.224.98:8800
+171.217.166.124:4000
+182.138.179.81:888
+139.200.28.88:5555
+171.217.166.221:9080
+171.217.164.81:9090
+182.150.181.48:4000
+110.185.70.97:5555
+182.150.181.47:4000
+125.70.180.253:8123
+118.114.87.17:4022
+118.113.235.155:55555
+182.150.169.31:4022
+125.70.180.97:8123
+182.149.117.64:7088
+171.88.14.185:55555
+222.209.187.208:7088
+171.217.132.106:4022
+222.209.208.234:7088
+171.221.34.45:4022
+171.214.211.78:4022
+171.212.214.191:6688
+118.112.95.20:6688
+110.185.36.41:9090
+118.112.95.116:6688
+112.193.1.120:8000
+218.88.87.161:4022
+218.88.87.160:4022
+110.188.34.27:1314
+125.70.160.92:4000
+118.116.122.78:8686
+118.114.168.33:8888
+118.112.90.55:9999
+118.112.203.147:8888
+171.217.35.134:8000
+118.116.39.148:8888
+118.116.80.22:4022
+118.113.158.93:4000
+119.4.229.75:8888
+182.151.234.226:9999
+118.114.197.245:9999
+110.185.10.200:3333
+182.149.156.13:4022
+125.71.132.54:8888
+118.122.111.94:4022
+218.6.208.208:4022
+118.122.111.156:4022
+125.69.144.133:9999
+61.139.115.222:7000
+171.217.166.70:4000
+139.200.73.11:4022
+171.88.65.203:8000
+125.69.58.123:8000
+175.152.57.145:9999
+175.152.79.174:8888
+171.213.15.195:4022
+139.200.66.233:2121
+171.223.105.230:8000
+125.71.115.97:8000
+182.138.86.243:9999
+182.139.111.68:8888
+182.138.221.167:5253
+182.138.179.130:888
+182.138.153.46:8888
+182.138.220.67:5253
+101.204.186.103:8000
+171.212.171.248:8088
+171.212.171.237:8088
+171.212.171.199:8088
+171.214.211.41:4022
+110.185.70.31:5555
+182.148.30.89:5555
+171.213.2.90:4022
+118.113.159.14:8000
+171.223.197.166:8123
+182.139.111.85:8888
+139.200.67.183:8888
+182.149.205.118:9080
+171.221.41.167:8888
+182.148.199.138:8888
+125.71.124.82:9100
+118.116.127.65:8888
+182.149.241.182:4000
+171.223.230.30:4488
+171.216.83.196:9090
+171.88.141.3:4000
+171.216.66.189:8888
+221.237.8.176:8888
+118.113.234.76:8888
+171.88.174.228:4000
+61.157.92.177:4022
+119.4.178.5:8888
+61.157.92.159:4022
+171.223.105.198:55555
+125.71.158.121:3333
+171.88.143.62:4001
+171.221.44.15:4001
+171.217.146.181:4000
+182.148.29.95:4022
+125.71.159.187:4022
+61.157.92.168:4022
+222.210.93.230:4022
+182.150.168.175:4022
+110.185.44.243:4022
+182.139.215.107:5555
+118.113.7.134:4000
+118.113.7.208:4000
+125.71.44.154:4022
+118.113.52.185:8848
+175.152.57.236:9999
+175.152.57.222:9999
+118.112.60.44:9999
+118.114.76.41:4022
+118.114.197.254:9999
+222.211.224.220:4000
+171.213.39.71:6066
+61.139.115.63:7000
+222.211.224.211:4000
+110.184.114.89:4022
+171.217.167.156:4022
+110.188.78.189:4022
+125.69.58.166:8000
+175.152.57.89:9999
+125.69.58.168:8000
+171.221.129.88:9999
+125.69.58.173:8000
+110.184.197.198:6004
+182.139.152.5:8000
+110.184.226.54:6666
+218.89.233.138:8088
+182.139.23.132:8000
+218.89.233.140:8088
+171.214.202.192:4000
+218.89.233.139:8088
+118.116.82.169:4022
+171.213.38.65:8889
+60.255.197.53:8088
+118.113.229.222:4022
+118.122.111.125:5555
+182.138.204.57:8888
+171.216.141.89:8888
+112.193.245.98:8888
+139.200.88.59:2122
+118.116.125.16:4022
+182.138.200.22:9080
+171.216.66.117:8888
+118.114.249.231:8888
+119.4.229.43:8888
+221.237.138.80:8688
+218.88.42.44:2016
+182.139.111.13:8888
+125.69.139.115:8880
+110.185.239.180:8888
+101.204.51.104:5555
+110.185.36.107:9090
+125.71.247.142:8889
+182.149.177.103:9100
+171.217.35.199:8000
+182.138.178.95:888
+110.188.79.69:4022
+182.150.168.40:4022
+182.139.152.90:55555
+171.221.71.59:1111
+125.69.144.10:55555
+171.223.199.237:4000
+139.200.29.55:5555
+171.221.34.38:4022
+110.184.225.54:6666
+171.223.199.12:8123
+171.217.167.227:4000
+218.88.86.26:4022
+218.88.86.19:4022
+171.88.36.191:4022
+110.185.202.235:6666
+112.193.24.52:4022
+182.138.201.17:4000
+182.138.161.192:8889
+171.88.143.157:4000
+222.210.186.150:5555
+110.185.211.203:6666
+125.70.202.155:4040
+222.209.7.231:66
+118.113.52.202:8848
+222.209.7.204:66
+125.69.146.4:9999
+61.139.24.107:4000
+221.237.9.11:5555
+119.4.123.91:5555
+171.88.65.44:8000
+175.152.55.149:5555
+110.184.189.73:6004
+118.116.122.234:8686
+221.237.92.139:9999
+222.209.182.184:8000
+171.221.129.214:4022
+125.69.58.151:8000
+125.71.212.249:8000
+171.212.170.243:8088
+125.69.58.153:8000
+110.188.33.181:1314
+171.223.198.202:8123
+110.185.39.204:8888
+112.193.245.104:8888
+110.184.226.8:6666
+101.206.49.240:8888
+222.211.146.215:8888
+125.69.58.150:8000
+118.114.187.92:8000
+182.148.199.47:8888
+222.211.147.178:8888
+182.148.131.25:8888
+171.213.50.182:8888
+125.69.146.70:8888
+182.149.206.203:9080
+101.207.186.225:8888
+119.4.229.46:8888
+110.191.180.186:8888
+110.191.180.247:8888
+139.200.67.147:8888
+139.200.88.85:8888
+222.211.241.206:8800
+218.88.102.100:8888
+125.71.132.9:8888
+222.212.226.17:5555
+222.209.182.51:55555
+110.188.32.2:1314
+110.185.219.61:58888
+110.185.219.86:58888
+218.88.21.246:4000
+182.148.29.253:9977
+182.148.29.170:9977
+182.138.175.199:9977
+182.138.229.196:9977
+110.185.202.196:9977
+125.71.57.148:4022
+61.157.49.50:8688
+182.138.229.191:8888
+182.148.12.238:8888
+139.200.66.197:8686
+182.139.111.196:8888
+182.138.229.142:8888
+222.210.55.147:8808
+139.200.66.197:2122
+171.223.61.238:6666
+118.114.97.25:885
+139.200.67.73:8686
+110.188.78.63:9988
+118.114.97.25:886
+125.70.237.113:4022
+125.70.237.41:4022
+171.223.198.94:4000
+182.138.161.36:8889
+125.70.182.10:8123
+110.184.186.112:4022
+110.184.186.120:4022
+110.184.186.116:4022
+118.113.228.98:4022
+118.112.148.228:4022
+110.191.204.201:8686
+ayolee.com:5253
+182.150.185.196:9999
+222.210.186.165:8888
+222.209.233.47:8888
+218.88.7.198:5253
+218.88.7.196:5253
+171.88.64.22:5253
+125.69.146.15:9999
+110.184.115.125:4022
+171.88.123.149:9999
+218.88.40.202:8000
+125.69.58.116:8000
+112.45.96.250:5130
+125.69.58.115:8000
+118.112.95.38:8000
+125.69.58.117:8000
+171.213.50.84:8686
+118.113.156.57:8000
+118.113.6.118:4000
+222.211.139.150:8588
+171.88.162.111:4022
+139.200.28.143:5555
+171.217.81.143:8088
+171.217.113.132:4022
+171.217.113.134:4022
+171.217.81.152:8088
+221.237.112.248:4000
+222.209.49.91:8088
+222.210.59.158:8888
+171.217.141.240:8888
+125.69.136.119:8880
+171.223.191.104:4022
+139.200.29.27:5555
+101.204.216.128:8888
+182.148.199.151:8888
+182.148.29.203:8888
+125.69.146.102:8888
+182.138.178.6:888
+182.139.110.160:8888
+139.200.67.203:8888
+110.184.115.99:4022
+119.4.229.162:8888
+118.113.146.54:8888
+221.237.137.150:8888
+125.71.133.238:8888
+118.112.203.108:8888
+125.70.160.8:4000
+171.212.212.11:8000
+125.70.53.28:8888
+101.206.60.150:8888
+171.88.140.115:4000
+218.89.224.231:8800
+125.70.215.7:8888
+182.148.130.31:58888
+182.148.130.33:58888
+171.217.166.216:9080
+182.139.213.191:5555
+125.71.171.110:9966
+222.210.186.171:8888
+182.150.171.197:5555
+182.139.152.105:55555
+61.157.59.252:8888
+171.223.198.222:8123
+118.113.134.244:55555
+125.71.247.32:8889
+171.217.88.252:4000
+171.88.106.139:8686
+171.88.35.82:4000
+171.88.35.78:4000
+118.112.123.50:6688
+125.71.125.47:4022
+139.200.76.89:4022
+171.212.81.165:8096
+171.214.210.222:4022
+182.149.196.98:6688
+118.116.126.30:4022
+118.112.123.110:6688
+118.112.123.63:6688
+222.210.87.11:6066
+118.113.31.202:8200
+118.114.200.216:4022
+171.217.131.9:4022
+118.113.6.230:4000
+110.191.180.235:6666
+118.112.63.32:9977
+125.71.150.56:4040
+110.191.244.189:9977
+118.113.159.210:4022
+125.71.150.67:4040
+171.88.120.111:9999
+171.88.140.128:4000
+101.204.218.223:8888
+112.193.120.87:5555
+110.184.3.121:8866
+139.200.66.217:2122
+110.184.226.138:6666
+118.113.4.38:4000
+110.184.115.170:9999
+182.138.178.148:885
+171.223.199.98:8123
+110.191.203.56:8888
+171.221.81.90:8000
+171.217.4.216:8000
+118.114.197.168:8888
+118.116.38.95:8888
+139.200.28.41:5555
+118.113.158.154:4022
+118.112.61.173:6066
+119.4.132.184:8000
+119.4.229.215:8888
+110.184.224.190:6666
+125.69.58.33:8000
+125.69.58.31:8000
+182.138.237.9:8888
+125.70.173.134:8000
+125.69.58.30:8000
+110.191.203.206:8888
+182.150.170.169:5555
+125.69.139.68:8880
+182.148.75.238:8888
+182.149.172.176:9100
+182.138.221.141:5253
+110.191.247.68:8888
+171.88.134.106:6666
+171.88.65.43:8000
+171.217.58.222:8088
+222.211.227.158:9080
+171.221.170.113:8888
+171.217.142.14:8000
+118.114.97.113:888
+61.157.1.64:4000
+118.114.249.137:8888
+182.148.78.240:8888
+182.139.110.239:8888
+182.148.13.98:8888
+182.138.86.199:9999
+171.217.145.140:55555
+171.223.104.171:55555
+110.184.224.170:6666
+110.184.197.234:6004
+112.193.120.201:5555
+222.209.246.47:55555
+182.151.169.10:8588
+110.185.240.236:8588
+139.200.68.108:8686
+171.221.95.56:4000
+171.213.44.194:8096
+218.89.233.208:8088
+222.209.136.95:8888
+175.152.138.36:6066
+221.237.92.124:9999
+139.200.28.127:5555
+182.148.78.130:4022
+118.114.220.233:8000
+182.149.98.254:9999
+171.217.144.10:5555
+118.122.111.68:5555
+125.69.58.125:8000
+118.113.156.10:8000
+125.69.58.127:8000
+125.69.58.121:8000
+222.212.96.75:8000
+182.149.224.46:4000
+171.217.58.241:8088
+222.210.162.178:8808
+182.149.148.168:8889
+171.217.58.242:8088
+221.237.31.110:4022
+182.148.75.58:8888
+222.211.163.80:8888
+125.70.183.215:4000
+171.88.106.76:8888
+139.200.66.75:8686
+221.237.137.137:4022
+182.139.111.4:8888
+171.217.131.179:4022
+171.217.146.166:8888
+101.204.78.35:8888
+125.71.132.78:8888
+222.211.226.101:9080
+182.148.14.93:8888
+118.122.96.183:5555
+182.149.174.27:9100
+118.113.52.56:8848
+125.69.139.125:8880
+139.200.66.180:8888
+182.149.86.230:58888
+110.184.166.132:8096
+182.149.86.235:58888
+118.122.103.228:4022
+110.184.225.131:6666
+171.88.141.103:4000
+117.175.185.226:4088
+182.149.150.239:8889
+182.149.86.232:58888
+125.70.83.4:55555
+182.150.171.62:4022
+171.217.145.149:55555
+221.237.137.192:4022
+171.221.95.93:4000
+119.4.229.155:8888
+171.221.67.123:4022
+118.114.168.57:8888
+171.217.166.29:4022
+171.214.226.87:12345
+139.200.67.187:8686
+125.69.147.93:9999
+125.69.58.15:8000
+125.69.147.107:8888
+125.69.58.9:8000
+222.209.219.78:4022
+125.71.171.143:4022
+61.157.126.68:4022
+139.200.66.252:8686
+118.112.97.24:4040
+171.88.65.85:8000
+171.212.170.151:8088
+171.216.67.119:8888
+222.212.43.241:4022
+110.184.224.152:6666
+171.221.58.191:4000
+125.70.173.169:8000
+125.70.173.131:8000
+182.138.204.233:8888
+182.139.110.47:8888
+182.149.99.66:8888
+182.150.186.98:8888
+182.148.29.198:8888
+182.148.14.215:8888
+171.214.202.161:4000
+110.184.144.51:12345
+220.166.249.102:4000
+139.200.66.252:2121
+118.112.192.142:4022
+171.88.123.94:9999
+125.69.58.111:8000
+171.212.171.131:8088
+125.70.174.220:8000
+125.71.127.75:4022
+110.185.202.31:4022
+222.212.170.176:6004
+171.214.202.98:4000
+139.200.67.187:2121
+171.212.171.149:8088
+171.212.171.135:8088
+218.88.103.176:8888
+222.211.146.107:8888
+222.212.14.196:8000
+182.138.120.5:8888
+171.216.67.39:8888
+125.71.133.50:8888
+171.216.67.49:8888
+139.200.67.62:2121
+125.71.126.10:4022
+182.139.7.202:4022
+110.191.246.230:8888
+222.211.147.80:8888
+222.211.147.113:8888
+222.210.186.69:888
+171.88.41.238:8888
+222.211.241.116:8800
+139.200.66.4:8888
+125.71.170.200:8888
+175.152.77.102:8888
+182.139.110.58:8888
+182.138.237.92:8888
+125.69.92.75:8888
+182.148.186.23:8888
+125.69.145.134:8888
+139.200.86.104:8888
+221.237.37.116:8888
+182.139.110.154:8888
+125.71.166.86:8888
+101.206.54.59:8888
+171.217.52.133:8888
+125.71.58.153:4022
+112.193.123.58:5555
+118.113.235.79:55555
+171.214.224.211:55555
+171.217.131.33:4022
+220.166.201.189:8808
+171.88.150.220:4022
+222.212.42.145:55555
+110.184.112.85:4022
+171.223.61.254:6666
+118.113.192.3:4022
+110.184.189.16:6004
+118.112.48.233:8178
+118.112.48.253:8178
+118.112.48.194:8178
+125.71.156.67:3333
+218.88.85.179:4022
+218.88.85.171:4022
+118.113.253.156:4022
+125.71.58.184:4022
+110.185.211.41:5555
+139.200.67.15:8686
+182.138.86.138:9999
+171.88.143.154:4001
+125.69.58.3:8000
+182.138.237.149:9999
+171.217.166.171:8000
+125.69.58.2:8000
+125.69.137.1:4022
+182.138.161.151:8889
+171.221.66.35:4022
+171.214.226.191:5555
+125.69.58.254:8000
+182.150.184.54:4022
+222.209.241.40:4040
+171.221.95.162:8864
+125.69.147.23:9999
+182.138.201.216:4022
+110.184.115.55:8888
+125.71.171.44:4022
+171.88.174.168:8123
+112.193.164.10:8888
+118.113.5.36:4000
+118.114.196.208:8888
+118.112.122.118:8000
+117.172.255.50:8000
+118.113.146.125:8888
+118.113.110.253:8888
+118.116.38.30:8888
+171.217.81.8:8088
+171.212.171.42:8088
+171.88.21.15:8888
+171.88.65.205:8000
+171.88.140.206:4000
+171.217.81.14:8088
+171.88.41.166:8888
+182.139.173.26:4000
+182.138.220.153:9090
+118.114.196.49:9999
+182.139.110.51:8888
+171.217.108.56:4022
+182.148.142.91:8888
+182.148.75.248:888
+125.69.58.215:8000
+222.209.208.234:4001
+112.193.2.235:8000
+125.71.125.41:4022
+125.71.133.53:58888
+110.185.39.73:2020
+118.113.74.151:4022
+112.193.48.230:5555
+118.113.53.113:8848
+218.88.40.162:8000
+182.148.73.194:58888
+110.184.115.49:9999
+125.71.159.25:6666
+182.139.68.224:58888
+171.221.88.35:4000
+171.214.202.134:4000
+171.214.202.148:4000
+171.216.66.27:5555
+175.152.138.45:6066
+125.71.135.2:58888
+183.222.206.14:8096
+218.88.85.194:4022
+139.200.28.221:5555
+171.221.7.96:4022
+61.157.61.229:8899
+171.88.37.49:4022
+118.112.148.174:4022
+222.209.49.128:8088
+222.209.78.214:8888
+221.237.36.201:8888
+125.70.237.160:5555
+222.211.147.73:8888
+175.152.138.38:6066
+171.217.56.16:4022
+125.69.144.142:55555
+110.191.244.21:4022
+171.217.131.102:4022
+182.138.218.105:55555
+101.207.204.25:55555
+125.70.83.102:9067
+118.116.122.157:8686
+171.223.199.39:8123
+61.157.50.231:4000
+171.223.199.121:8123
+101.206.49.117:8888
+110.184.198.182:6004
+222.211.241.36:8800
+171.88.42.76:8888
+171.217.236.45:4022
+139.200.67.16:8686
+182.138.204.93:9168
+119.4.229.184:8888
+182.139.42.153:8880
+118.112.203.3:9168
+61.157.30.239:8888
+118.114.188.172:9168
+125.70.163.227:8888
+118.112.90.84:8888
+118.114.97.116:5555
+118.122.96.75:5555
+171.221.58.164:4000
+171.221.58.141:4000
+118.114.96.20:8889
+222.209.49.222:8088
+222.209.49.220:8088
+118.116.80.107:4022
+125.69.58.57:8000
+171.217.58.136:8088
+125.69.58.64:8000
+125.69.58.56:8000
+171.223.199.161:4000
+182.139.20.135:8000
+118.122.103.235:4022
+110.188.32.229:1314
+182.138.200.125:8000
+218.88.8.36:8000
+101.204.33.63:4022
+101.204.33.59:4022
+171.212.212.44:8000
+101.204.33.62:4022
+118.113.228.237:4022
+125.70.181.83:8123
+101.204.33.56:4022
+221.237.13.7:4022
+112.19.171.156:9999
+139.200.67.21:8686
+118.112.90.161:9999
+171.223.215.229:4000
+222.210.186.222:5555
+118.114.99.140:4022
+125.71.156.214:6666
+171.213.2.98:4022
+118.112.148.124:4022
+61.157.92.19:4022
+61.157.92.15:4022
+47.108.251.78:2002
+221.237.114.81:4000
+139.200.67.163:8686
+221.237.137.226:4022
+112.44.6.47:4022
+171.213.47.174:5555
+118.116.82.137:4022
+171.88.140.182:4000
