@@ -59,14 +59,28 @@ def load_channels(url):
         return {}
 
 def is_udpxy_alive(server, timeout=4):
-    """简单判断 udpxy 是否在线，只用一个假组播地址"""
-    test_url = f"{server}/rtp/239.3.1.129:8008"
-    try:
-        with requests.get(test_url, timeout=timeout, stream=True) as r:
-            if r.status_code in (200, 206, 403):
-                return True
-    except:
-        pass
+    """增强版：用 3 个不同组播地址判断 udpxy 是否在线
+       任意一个返回 200/206/403 就判定存活，大幅提高检测准确率"""
+    
+    # 你指定的 3 个测试路径（原假地址 + 你新增的 2 个）
+    test_paths = [
+        "/rtp/239.3.1.129:8008",      # 原假组播
+        "/rtp/239.77.0.86:5146",      # 你新增的第1个
+        "/udp/237.2.1.59:1234",       # 你新增的第2个（cctv1 常用路径）
+    ]
+    
+    for path in test_paths:
+        # 使用 urljoin 更安全（兼容 server 是否带 /）
+        test_url = urljoin(server.rstrip('/') + '/', path.lstrip('/'))
+        
+        try:
+            with requests.get(test_url, timeout=timeout, stream=True) as r:
+                if r.status_code in (200, 206, 403):
+                    # log(f"  ✓ {server} 通过 {path} 测试")  # 需要调试时打开
+                    return True
+        except:
+            continue  # 继续试下一个路径
+    
     return False
 
 def measure_speed(server, path, name, max_bytes=MAX_DOWNLOAD_BYTES):
