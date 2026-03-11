@@ -31,7 +31,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: guangxi-available-sources
-          path: 全国_可用直播源.txt
+          path: ai.txt
           if-no-files-found: warn
           
       - name: Commit and push results
@@ -43,7 +43,7 @@ jobs:
           git pull origin main --rebase || true
           
           # 添加文件（容错，不存在也不会报错）
-          git add 全国_可用直播源.txt || true
+          git add ai.txt || true
           
           # 只在有变更时 commit
           if git diff --cached --quiet; then
