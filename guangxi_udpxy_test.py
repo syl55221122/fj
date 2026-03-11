@@ -7,7 +7,7 @@ from urllib.parse import urljoin
 UDPPXY_LIST_URL = "https://raw.githubusercontent.com/syl55221122/fj/refs/heads/main/1.txt"
 CHANNEL_FILE_URL = "https://raw.githubusercontent.com/syl55221122/fj/refs/heads/main/fjgd.txt"  # 你自己的全国频道列表
 
-OUTPUT_FILE = "全国_可用直播源.txt"
+OUTPUT_FILE = "ai.txt"
 MAX_DOWNLOAD_BYTES = 3 * 1024 * 1024   # 3MB，更容易通过
 SPEED_TIMEOUT = 10                     # 延长到10秒
 MAX_WORKERS = 12                       # 并发12
@@ -137,7 +137,7 @@ def main():
     valid.sort(key=lambda x: x[2], reverse=True)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(f"# 全国可用直播源（生成于 {time.strftime('%Y-%m-%d %H:%M')})\n")
+        f.write(f"# ai（生成于 {time.strftime('%Y-%m-%d %H:%M')})\n")
         f.write(f"# 共找到 {len(valid)} 条有效线路（速度降序）\n\n")
         f.write("#genre#\n")
         for name, url, speed in valid:
