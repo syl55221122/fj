@@ -113,6 +113,7 @@ def is_udpxy_alive(server, timeout=4):
         "/rtp/239.254.96.82:7640",              # 海南联通
         "/rtp/239.0.0.10:5140",                 # 四川联通
         "/rtp/239.11.0.65:5140",                # 四川移动
+        "/udp/224.1.100.90:11111"               # 广东有线
     ]
     
     for path in test_paths:
