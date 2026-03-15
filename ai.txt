@@ -1,8 +1,9 @@
-# ai（生成于 2026-03-14 09:30)
-# 共找到 4 条有效线路
+# ai（生成于 2026-03-15 04:42)
+# 共找到 5 条有效线路
 
 #genre#
-辽宁联通,http://bjx.synology.me:4022/rtp/232.0.0.27:1234 # 6.95 Mbps
-北京联通,http://lorinserver.dscloud.me:4023/rtp/239.3.1.129:8008 # 6.33 Mbps
-北京联通,http://lorinchang.dscloud.me:4023/rtp/239.3.1.129:8008 # 5.83 Mbps
-江苏电信,http://198980.xyz:8888/rtp/239.49.8.19:9614 # 2.60 Mbps
+北京联通,http://lorinchang.dscloud.me:4023/rtp/239.3.1.129:8008 # 7.17 Mbps
+北京联通,http://lorinserver.dscloud.me:4023/rtp/239.3.1.129:8008 # 7.13 Mbps
+辽宁联通,http://bjx.synology.me:4022/rtp/232.0.0.27:1234 # 5.51 Mbps
+湖北电信,http://zyhfm.com:8088/rtp/239.254.96.96:8550 # 2.50 Mbps
+湖北电信,http://www.zyhfm.com:8088/rtp/239.254.96.96:8550 # 1.45 Mbps
