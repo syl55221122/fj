@@ -1,14 +1,14 @@
-# ai（生成于 2026-10-09 06:50)
+# ai（生成于 2026-10-10 06:32)
 # 共找到 10 条有效线路
 
 #genre#
-四川联通,http://223.87.160.11:4022/rtp/239.0.0.10:5140 # 7.00 Mbps
-江苏电信,http://nas.lyx2lsp.fun:7088/rtp/239.49.8.19:9614 # 6.44 Mbps
-广东电信,http://120.234.24.78:4022/rtp/239.77.0.86:5146 # 5.41 Mbps
+天津移动,http://dav.7788aly.top:4022/rtp/225.2.1.120:5000 # 7.09 Mbps
+河北电信,http://152.136.206.67:31481/rtp/239.254.200.45:8008 # 6.92 Mbps
+四川联通,http://223.87.160.11:4022/rtp/239.0.0.10:5140 # 6.85 Mbps
+广东电信,http://home.szjim.top:4000/rtp/239.77.0.86:5146 # 5.18 Mbps
 江苏电信,http://wxjycg.familyds.com:7088/rtp/239.49.8.19:9614 # 5.14 Mbps
-广东电信,http://autumnfish.myds.me:7088/rtp/239.77.0.86:5146 # 5.11 Mbps
-天津移动,http://dav.7788aly.top:4022/rtp/225.2.1.120:5000 # 4.89 Mbps
-北京联通,http://px95841qa61.vicp.fun:4022/rtp/239.3.1.129:8008 # 4.29 Mbps
-广东电信,http://home.szjim.top:4000/rtp/239.77.0.86:5146 # 4.27 Mbps
-江苏电信,http://th.galgames.fun:4022/rtp/239.49.8.19:9614 # 3.91 Mbps
-福建电信,http://oiio.top:4000/rtp/239.61.3.61:9884 # 3.64 Mbps
+广东电信,http://autumnfish.myds.me:7088/rtp/239.77.0.86:5146 # 5.09 Mbps
+广东电信,http://120.234.24.78:4022/rtp/239.77.0.86:5146 # 5.05 Mbps
+江苏电信,http://th.galgames.fun:4022/rtp/239.49.8.19:9614 # 4.77 Mbps
+江苏电信,http://nas.lyx2lsp.fun:7088/rtp/239.49.8.19:9614 # 4.66 Mbps
+福建电信,http://oiio.top:4000/rtp/239.61.3.61:9884 # 3.25 Mbps
