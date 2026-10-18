@@ -1,13 +1,13 @@
-# ai（生成于 2026-10-17 05:11)
+# ai（生成于 2026-10-18 05:13)
 # 共找到 9 条有效线路
 
 #genre#
-北京联通,http://richienas.synology.me:4022/rtp/239.3.1.129:8008 # 6.93 Mbps
-江苏电信,http://nas.lyx2lsp.fun:7088/rtp/239.49.8.19:9614 # 6.45 Mbps
-天津移动,http://dav.7788aly.top:4022/rtp/225.2.1.120:5000 # 6.07 Mbps
-广东电信,http://autumnfish.myds.me:7088/rtp/239.77.0.86:5146 # 5.15 Mbps
-江苏电信,http://wxjycg.familyds.com:7088/rtp/239.49.8.19:9614 # 5.12 Mbps
-四川联通,http://223.87.160.11:4022/rtp/239.0.0.10:5140 # 5.02 Mbps
-福建电信,http://oiio.top:4000/rtp/239.61.3.61:9884 # 3.31 Mbps
-江苏电信,http://th.galgames.fun:4022/rtp/239.49.8.19:9614 # 3.06 Mbps
-广东电信,http://home.szjim.top:4000/rtp/239.77.0.86:5146 # 1.13 Mbps
+江苏电信,http://nas.lyx2lsp.fun:7088/rtp/239.49.8.19:9614 # 6.70 Mbps
+四川联通,http://223.87.160.11:4022/rtp/239.0.0.10:5140 # 6.53 Mbps
+江苏电信,http://27691c27e.zicp.fun:4000/rtp/239.49.8.19:9614 # 5.75 Mbps
+江苏电信,http://wxjycg.familyds.com:7088/rtp/239.49.8.19:9614 # 5.21 Mbps
+广东电信,http://home.szjim.top:4000/rtp/239.77.0.86:5146 # 5.09 Mbps
+广东电信,http://autumnfish.myds.me:7088/rtp/239.77.0.86:5146 # 4.20 Mbps
+江苏电信,http://th.galgames.fun:4022/rtp/239.49.8.19:9614 # 4.09 Mbps
+福建电信,http://oiio.top:4000/rtp/239.61.3.61:9884 # 3.67 Mbps
+天津移动,http://dav.7788aly.top:4022/rtp/225.2.1.120:5000 # 2.57 Mbps
