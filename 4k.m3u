@@ -1,0 +1,33 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 group-title="其他频道",北京联通
+http://sphinger.f3322.net:11012/rtp/239.3.1.118:8001
+#EXTINF:-1 group-title="其他频道",北京联通
+http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.118:8001
+#EXTINF:-1 group-title="其他频道",北京联通
+http://qqdwtypm.f3322.org:64022/rtp/239.3.1.118:8001
+#EXTINF:-1 group-title="其他频道",北京联通
+http://n2.192372.xyz:8888/rtp/239.3.1.118:8001
+#EXTINF:-1 group-title="其他频道",北京联通
+http://www.x1x.bid:5146/rtp/239.3.1.118:8001
+#EXTINF:-1 group-title="其他频道",北京联通
+http://tianlibiao.org.cn:9090/rtp/239.3.1.118:8001
+#EXTINF:-1 group-title="其他频道",北京联通
+http://www.221111.best:8012/rtp/239.3.1.118:8001
+#EXTINF:-1 group-title="其他频道",北京联通
+http://home.152824.xyz:64022/rtp/239.3.1.118:8001
+#EXTINF:-1 group-title="其他频道",北京联通
+http://x1x.bid:5146/rtp/239.3.1.118:8001
+#EXTINF:-1 group-title="其他频道",北京联通
+http://photoby.us:28012/rtp/239.3.1.118:8001
+#EXTINF:-1 group-title="其他频道",天津联通
+http://wow.lkzflzylzx.top:4022/rtp/225.1.1.120:5002
+#EXTINF:-1 group-title="其他频道",北京联通
+http://joyznm.i234.me:20000/rtp/239.3.1.118:8001
+#EXTINF:-1 group-title="其他频道",北京联通
+http://home.zgnc.fun:8824/rtp/239.3.1.118:8001
+#EXTINF:-1 group-title="其他频道",北京联通
+http://guoxue.synology.me:57022/rtp/239.3.1.118:8001
+#EXTINF:-1 group-title="其他频道",辽宁联通
+http://101.wifi98.com:9005/rtp/232.0.0.113:8602
+#EXTINF:-1 group-title="其他频道",辽宁联通
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.113:8602
